@@ -1,0 +1,4211 @@
+[
+  {
+    "nombre": "It Takes Two",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "aventura",
+      "cooperativo",
+      "puzzles"
+    ]
+  },
+  {
+    "nombre": "Unravel Two",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": [
+      "cooperativo",
+      "plataformas",
+      "puzzles"
+    ]
+  },
+  {
+    "nombre": "Overcooked! 2",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido",
+      "party"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "casual",
+      "cooperativo",
+      "caótico"
+    ]
+  },
+  {
+    "nombre": "Moving Out",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido",
+      "party"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "casual",
+      "cooperativo",
+      "físicas"
+    ]
+  },
+  {
+    "nombre": "Stardew Valley",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": [
+      "simulación",
+      "granjas",
+      "relajante"
+    ]
+  },
+  {
+    "nombre": "Minecraft",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": [
+      "sandbox",
+      "supervivencia",
+      "creativo"
+    ]
+  },
+  {
+    "nombre": "Lego Star Wars: The Skywalker Saga",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "baja",
+    "requisitos": "medios",
+    "tags": [
+      "aventura",
+      "familiar",
+      "acción"
+    ]
+  },
+  {
+    "nombre": "Lego Harry Potter Collection",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": [
+      "aventura",
+      "familiar",
+      "puzzles"
+    ]
+  },
+  {
+    "nombre": "Rayman Legends",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "plataformas",
+      "aventura",
+      "acción"
+    ]
+  },
+  {
+    "nombre": "Human: Fall Flat",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido",
+      "party"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": [
+      "puzzles",
+      "físicas",
+      "comedia"
+    ]
+  },
+  {
+    "nombre": "Lovers in a Dangerous Spacetime",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "acción",
+      "espacio",
+      "cooperativo"
+    ]
+  },
+  {
+    "nombre": "Castle Crashers",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido",
+      "party"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "acción",
+      "beat 'em up",
+      "aventura"
+    ]
+  },
+  {
+    "nombre": "Pico Park",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido",
+      "party"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": [
+      "puzzles",
+      "cooperativo",
+      "casual"
+    ]
+  },
+  {
+    "nombre": "BattleBlock Theater",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "plataformas",
+      "puzzles",
+      "comedia"
+    ]
+  },
+  {
+    "nombre": "Broforce",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "acción",
+      "plataformas",
+      "pixel art"
+    ]
+  },
+  {
+    "nombre": "Untitled Goose Game",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido",
+      "party"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": [
+      "puzzles",
+      "sigilo",
+      "comedia"
+    ]
+  },
+  {
+    "nombre": "Phogs!",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": [
+      "puzzles",
+      "aventura",
+      "cooperativo"
+    ]
+  },
+  {
+    "nombre": "Pode",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": [
+      "puzzles",
+      "exploración",
+      "relajante"
+    ]
+  },
+  {
+    "nombre": "Heave Ho",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido",
+      "party"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": [
+      "plataformas",
+      "físicas",
+      "cooperativo"
+    ]
+  },
+  {
+    "nombre": "Tools Up!",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido",
+      "party"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "casual",
+      "cooperativo",
+      "simulación"
+    ]
+  },
+  {
+    "nombre": "Farm Together",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": [
+      "simulación",
+      "granjas",
+      "relajante"
+    ]
+  },
+  {
+    "nombre": "Spiritfarer",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": [
+      "gestión",
+      "narrativo",
+      "relajante"
+    ]
+  },
+  {
+    "nombre": "Mario Kart 8 Deluxe",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido",
+      "party",
+      "matchmaking"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "baja",
+    "requisitos": "medios",
+    "tags": [
+      "carreras",
+      "familiar",
+      "competitivo"
+    ]
+  },
+  {
+    "nombre": "Crash Team Racing Nitro-Fueled",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido",
+      "party",
+      "matchmaking"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "carreras",
+      "familiar",
+      "competitivo"
+    ]
+  },
+  {
+    "nombre": "FIFA 23",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido",
+      "matchmaking"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "altos",
+    "tags": [
+      "deportes",
+      "fútbol",
+      "competitivo"
+    ]
+  },
+  {
+    "nombre": "EA Sports FC 24",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido",
+      "matchmaking"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "altos",
+    "tags": [
+      "deportes",
+      "fútbol",
+      "competitivo"
+    ]
+  },
+  {
+    "nombre": "Rocket League",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido",
+      "matchmaking"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "medios",
+    "tags": [
+      "deportes",
+      "carreras",
+      "competitivo"
+    ]
+  },
+  {
+    "nombre": "Gang Beasts",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido",
+      "party"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": [
+      "lucha",
+      "físicas",
+      "caótico"
+    ]
+  },
+  {
+    "nombre": "Totally Reliable Delivery Service",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido",
+      "party"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": [
+      "físicas",
+      "casual",
+      "mundo abierto"
+    ]
+  },
+  {
+    "nombre": "Knights and Bikes",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": [
+      "aventura",
+      "acción",
+      "indie"
+    ]
+  },
+  {
+    "nombre": "Degrees of Separation",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": [
+      "puzzles",
+      "plataformas",
+      "indie"
+    ]
+  },
+  {
+    "nombre": "Chicory: A Colorful Tale",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": [
+      "aventura",
+      "puzzles",
+      "indie"
+    ]
+  },
+  {
+    "nombre": "Snipperclips",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": [
+      "puzzles",
+      "cooperativo",
+      "familiar"
+    ]
+  },
+  {
+    "nombre": "KeyWe",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "puzzles",
+      "casual",
+      "cooperativo"
+    ]
+  },
+  {
+    "nombre": "Good Job!",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": [
+      "casual",
+      "puzzles",
+      "comedia"
+    ]
+  },
+  {
+    "nombre": "WarioWare: Get It Together!",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido",
+      "party"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": [
+      "minijuegos",
+      "acción",
+      "familiar"
+    ]
+  },
+  {
+    "nombre": "Super Mario 3D World + Bowser's Fury",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "baja",
+    "requisitos": "medios",
+    "tags": [
+      "plataformas",
+      "aventura",
+      "familiar"
+    ]
+  },
+  {
+    "nombre": "New Super Mario Bros. U Deluxe",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "plataformas",
+      "acción",
+      "familiar"
+    ]
+  },
+  {
+    "nombre": "Kirby and the Forgotten Land",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "baja",
+    "requisitos": "medios",
+    "tags": [
+      "plataformas",
+      "aventura",
+      "familiar"
+    ]
+  },
+  {
+    "nombre": "Kirby Star Allies",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": [
+      "plataformas",
+      "aventura",
+      "familiar"
+    ]
+  },
+  {
+    "nombre": "Donkey Kong Country: Tropical Freeze",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "alta",
+    "requisitos": "medios",
+    "tags": [
+      "plataformas",
+      "acción",
+      "difícil"
+    ]
+  },
+  {
+    "nombre": "Yoshi's Crafted World",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": [
+      "plataformas",
+      "aventura",
+      "familiar"
+    ]
+  },
+  {
+    "nombre": "Trine 4: The Nightmare Prince",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "plataformas",
+      "puzzles",
+      "fantasía"
+    ]
+  },
+  {
+    "nombre": "Trine Enchanted Edition",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "plataformas",
+      "puzzles",
+      "fantasía"
+    ]
+  },
+  {
+    "nombre": "Trine 2",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "plataformas",
+      "puzzles",
+      "fantasía"
+    ]
+  },
+  {
+    "nombre": "Trine 3: The Artifacts of Power",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "plataformas",
+      "puzzles",
+      "fantasía"
+    ]
+  },
+  {
+    "nombre": "Flat Heroes",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "acción",
+      "plataformas",
+      "indie"
+    ]
+  },
+  {
+    "nombre": "Ibb & Obb",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "alta",
+    "requisitos": "bajos",
+    "tags": [
+      "puzzles",
+      "plataformas",
+      "indie"
+    ]
+  },
+  {
+    "nombre": "Shift Happens",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "puzzles",
+      "plataformas",
+      "cooperativo"
+    ]
+  },
+  {
+    "nombre": "Never Alone (Kisima Ingitchuna)",
+    "categoria_web": [
+      "pareja",
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop"
+    ],
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": [
+      "plataformas",
+      "narrativo",
+      "indie"
+    ]
+  },
+  {
+    "nombre": "7 Days to Die",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "medios",
+    "tags": [
+      "supervivencia",
+      "zombies",
+      "crafteo"
+    ]
+  },
+  {
+    "nombre": "Project Zomboid",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "bajos",
+    "tags": [
+      "supervivencia",
+      "zombies",
+      "sandbox"
+    ]
+  },
+  {
+    "nombre": "Stardew Valley",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": [
+      "simulación",
+      "granjas",
+      "indie"
+    ]
+  },
+  {
+    "nombre": "Phasmophobia",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "terror",
+      "cooperativo",
+      "investigación"
+    ]
+  },
+  {
+    "nombre": "Terraria",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "supervivencia",
+      "sandbox",
+      "aventura"
+    ]
+  },
+  {
+    "nombre": "Minecraft",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": [
+      "supervivencia",
+      "sandbox",
+      "creativo"
+    ]
+  },
+  {
+    "nombre": "Deep Rock Galactic",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "cooperativo",
+      "acción",
+      "minería"
+    ]
+  },
+  {
+    "nombre": "The Escapists 2",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "estrategia",
+      "puzzles",
+      "pixel art"
+    ]
+  },
+  {
+    "nombre": "Valheim",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "supervivencia",
+      "mundo abierto",
+      "mitología"
+    ]
+  },
+  {
+    "nombre": "Don't Starve Together",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "bajos",
+    "tags": [
+      "supervivencia",
+      "sandbox",
+      "difícil"
+    ]
+  },
+  {
+    "nombre": "Raft",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "supervivencia",
+      "cooperativo",
+      "crafteo"
+    ]
+  },
+  {
+    "nombre": "Green Hell",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "medios",
+    "tags": [
+      "supervivencia",
+      "realista",
+      "selva"
+    ]
+  },
+  {
+    "nombre": "The Forest",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "medios",
+    "tags": [
+      "supervivencia",
+      "terror",
+      "crafteo"
+    ]
+  },
+  {
+    "nombre": "Sons of the Forest",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "altos",
+    "tags": [
+      "supervivencia",
+      "terror",
+      "mundo abierto"
+    ]
+  },
+  {
+    "nombre": "Rust",
+    "categoria_web": [
+      "coop_divertido",
+      "matchmaking"
+    ],
+    "jugadores": [
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "altos",
+    "tags": [
+      "supervivencia",
+      "competitivo",
+      "sandbox"
+    ]
+  },
+  {
+    "nombre": "ARK: Survival Evolved",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "altos",
+    "tags": [
+      "supervivencia",
+      "dinosaurios",
+      "mundo abierto"
+    ]
+  },
+  {
+    "nombre": "Grounded",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "supervivencia",
+      "mundo abierto",
+      "aventura"
+    ]
+  },
+  {
+    "nombre": "Core Keeper",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "supervivencia",
+      "minería",
+      "pixel art"
+    ]
+  },
+  {
+    "nombre": "V Rising",
+    "categoria_web": [
+      "coop_divertido",
+      "matchmaking"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "supervivencia",
+      "vampiros",
+      "acción"
+    ]
+  },
+  {
+    "nombre": "Enshrouded",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "altos",
+    "tags": [
+      "supervivencia",
+      "rpg",
+      "mundo abierto"
+    ]
+  },
+  {
+    "nombre": "Palworld",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "altos",
+    "tags": [
+      "supervivencia",
+      "captura de monstruos",
+      "sandbox"
+    ]
+  },
+  {
+    "nombre": "Lethal Company",
+    "categoria_web": [
+      "coop_divertido",
+      "party"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "bajos",
+    "tags": [
+      "terror",
+      "cooperativo",
+      "comedia"
+    ]
+  },
+  {
+    "nombre": "Content Warning",
+    "categoria_web": [
+      "coop_divertido",
+      "party"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "terror",
+      "cooperativo",
+      "comedia"
+    ]
+  },
+  {
+    "nombre": "Devour",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "bajos",
+    "tags": [
+      "terror",
+      "cooperativo",
+      "difícil"
+    ]
+  },
+  {
+    "nombre": "Labyrinthine",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "terror",
+      "puzzles",
+      "cooperativo"
+    ]
+  },
+  {
+    "nombre": "Pacify",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "bajos",
+    "tags": [
+      "terror",
+      "cooperativo",
+      "acción"
+    ]
+  },
+  {
+    "nombre": "Bigfoot",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "terror",
+      "caza",
+      "cooperativo"
+    ]
+  },
+  {
+    "nombre": "GTFO",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "medios",
+    "tags": [
+      "acción",
+      "terror",
+      "hardcore"
+    ]
+  },
+  {
+    "nombre": "Left 4 Dead 2",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "zombies",
+      "acción",
+      "cooperativo"
+    ]
+  },
+  {
+    "nombre": "Back 4 Blood",
+    "categoria_web": [
+      "coop_divertido",
+      "matchmaking"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "altos",
+    "tags": [
+      "zombies",
+      "acción",
+      "cooperativo"
+    ]
+  },
+  {
+    "nombre": "Killing Floor 3",
+    "categoria_web": [
+      "coop_divertido",
+      "matchmaking"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "altos",
+    "tags": [
+      "acción",
+      "zombies",
+      "gore"
+    ]
+  },
+  {
+    "nombre": "Warhammer: Vermintide 2",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "medios",
+    "tags": [
+      "acción",
+      "cooperativo",
+      "fantasía"
+    ]
+  },
+  {
+    "nombre": "Warhammer 40,000: Darktide",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "altos",
+    "tags": [
+      "acción",
+      "cooperativo",
+      "ciencia ficción"
+    ]
+  },
+  {
+    "nombre": "Payday 2",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "acción",
+      "atracos",
+      "cooperativo"
+    ]
+  },
+  {
+    "nombre": "Payday 3",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "altos",
+    "tags": [
+      "acción",
+      "atracos",
+      "cooperativo"
+    ]
+  },
+  {
+    "nombre": "Sea of Thieves",
+    "categoria_web": [
+      "coop_divertido",
+      "matchmaking"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "aventura",
+      "piratas",
+      "mundo abierto"
+    ]
+  },
+  {
+    "nombre": "No Man's Sky",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "exploración",
+      "supervivencia",
+      "espacio"
+    ]
+  },
+  {
+    "nombre": "Astroneer",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "baja",
+    "requisitos": "medios",
+    "tags": [
+      "exploración",
+      "espacio",
+      "sandbox"
+    ]
+  },
+  {
+    "nombre": "Satisfactory",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "altos",
+    "tags": [
+      "automatización",
+      "construcción",
+      "ciencia ficción"
+    ]
+  },
+  {
+    "nombre": "Factorio",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "bajos",
+    "tags": [
+      "automatización",
+      "estrategia",
+      "supervivencia"
+    ]
+  },
+  {
+    "nombre": "Hydroneer",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "minería",
+      "sandbox",
+      "simulación"
+    ]
+  },
+  {
+    "nombre": "Sun Haven",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": [
+      "simulación",
+      "granjas",
+      "rpg"
+    ]
+  },
+  {
+    "nombre": "My Time at Sandrock",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "simulación",
+      "aventura",
+      "crafteo"
+    ]
+  },
+  {
+    "nombre": "For The King",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "bajos",
+    "tags": [
+      "rpg",
+      "turnos",
+      "roguelike"
+    ]
+  },
+  {
+    "nombre": "For The King II",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "medios",
+    "tags": [
+      "rpg",
+      "turnos",
+      "roguelike"
+    ]
+  },
+  {
+    "nombre": "Barotrauma",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "bajos",
+    "tags": [
+      "simulación",
+      "supervivencia",
+      "cooperativo"
+    ]
+  },
+  {
+    "nombre": "Pulsar: Lost Colony",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "simulación",
+      "espacio",
+      "cooperativo"
+    ]
+  },
+  {
+    "nombre": "Space Engineers",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "altos",
+    "tags": [
+      "sandbox",
+      "espacio",
+      "construcción"
+    ]
+  },
+  {
+    "nombre": "Eco",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "supervivencia",
+      "simulación",
+      "ecología"
+    ]
+  },
+  {
+    "nombre": "Vintage Story",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "bajos",
+    "tags": [
+      "supervivencia",
+      "sandbox",
+      "crafteo"
+    ]
+  },
+  {
+    "nombre": "MIMESIS",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "terror",
+      "cooperativo",
+      "indie"
+    ]
+  },
+  {
+    "nombre": "PEAK",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "acción",
+      "cooperativo",
+      "indie"
+    ]
+  },
+  {
+    "nombre": "Split Fiction",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "acción",
+      "cooperativo",
+      "indie"
+    ]
+  },
+  {
+    "nombre": "Abiotic Factor",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "supervivencia",
+      "ciencia ficción",
+      "cooperativo"
+    ]
+  },
+  {
+    "nombre": "R.E.P.O.",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "terror",
+      "cooperativo",
+      "acción"
+    ]
+  },
+  {
+    "nombre": "Lockdown Protocol",
+    "categoria_web": [
+      "coop_divertido",
+      "party"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "deducción social",
+      "multijugador",
+      "indie"
+    ]
+  },
+  {
+    "nombre": "Mage Arena",
+    "categoria_web": [
+      "coop_divertido",
+      "party"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": [
+      "acción",
+      "magia",
+      "competitivo"
+    ]
+  },
+  {
+    "nombre": "Guilty as Sock!",
+    "categoria_web": [
+      "coop_divertido",
+      "party"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": [
+      "comedia",
+      "casual",
+      "multijugador"
+    ]
+  },
+  {
+    "nombre": "Witch It",
+    "categoria_web": [
+      "coop_divertido",
+      "party"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "baja",
+    "requisitos": "medios",
+    "tags": [
+      "escondite",
+      "casual",
+      "multijugador"
+    ]
+  },
+  {
+    "nombre": "Forewarned",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "terror",
+      "exploración",
+      "egipto"
+    ]
+  },
+  {
+    "nombre": "Ghost Exile",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "terror",
+      "caza de fantasmas",
+      "cooperativo"
+    ]
+  },
+  {
+    "nombre": "Inside the Backrooms",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "terror",
+      "puzzles",
+      "cooperativo"
+    ]
+  },
+  {
+    "nombre": "Escape the Backrooms",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "terror",
+      "exploración",
+      "cooperativo"
+    ]
+  },
+  {
+    "nombre": "Dark and Darker",
+    "categoria_web": [
+      "coop_divertido",
+      "matchmaking"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "altos",
+    "tags": [
+      "acción",
+      "extracción",
+      "fantasía"
+    ]
+  },
+  {
+    "nombre": "Ready or Not",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "altos",
+    "tags": [
+      "shooter táctico",
+      "acción",
+      "realista"
+    ]
+  },
+  {
+    "nombre": "Ground Branch",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "medios",
+    "tags": [
+      "shooter táctico",
+      "realista",
+      "acción"
+    ]
+  },
+  {
+    "nombre": "Zero Hour",
+    "categoria_web": [
+      "coop_divertido",
+      "matchmaking"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "medios",
+    "tags": [
+      "shooter táctico",
+      "acción",
+      "competitivo"
+    ]
+  },
+  {
+    "nombre": "Dying Light 2 Stay Human",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "altos",
+    "tags": [
+      "acción",
+      "zombies",
+      "parkour"
+    ]
+  },
+  {
+    "nombre": "State of Decay 2",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "zombies",
+      "supervivencia",
+      "gestión"
+    ]
+  },
+  {
+    "nombre": "Generation Zero",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "acción",
+      "mundo abierto",
+      "robots"
+    ]
+  },
+  {
+    "nombre": "Remnant: From the Ashes",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "medios",
+    "tags": [
+      "acción",
+      "shooter",
+      "souls-like"
+    ]
+  },
+  {
+    "nombre": "Remnant II",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "altos",
+    "tags": [
+      "acción",
+      "shooter",
+      "souls-like"
+    ]
+  },
+  {
+    "nombre": "Risk of Rain 2",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "medios",
+    "tags": [
+      "acción",
+      "roguelike",
+      "cooperativo"
+    ]
+  },
+  {
+    "nombre": "Ember Knights",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "acción",
+      "roguelike",
+      "cooperativo"
+    ]
+  },
+  {
+    "nombre": "Ravenwatch",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "medios",
+    "tags": [
+      "acción",
+      "roguelike",
+      "cooperativo"
+    ]
+  },
+  {
+    "nombre": "Children of Morta",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "acción",
+      "rpg",
+      "roguelike"
+    ]
+  },
+  {
+    "nombre": "Baldur's Gate 3",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "altos",
+    "tags": [
+      "rpg",
+      "historia",
+      "turnos"
+    ]
+  },
+  {
+    "nombre": "Divinity: Original Sin 2",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "medios",
+    "tags": [
+      "rpg",
+      "historia",
+      "turnos"
+    ]
+  },
+  {
+    "nombre": "Helldivers 2",
+    "categoria_web": [
+      "coop_divertido",
+      "matchmaking"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "altos",
+    "tags": [
+      "acción",
+      "shooter",
+      "cooperativo"
+    ]
+  },
+  {
+    "nombre": "Warhammer 40,000: Space Marine 2",
+    "categoria_web": [
+      "coop_divertido",
+      "matchmaking"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "altos",
+    "tags": [
+      "acción",
+      "shooter",
+      "cooperativo"
+    ]
+  },
+  {
+    "nombre": "Monster Hunter: World",
+    "categoria_web": [
+      "coop_divertido",
+      "matchmaking"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "altos",
+    "tags": [
+      "acción",
+      "rpg",
+      "caza"
+    ]
+  },
+  {
+    "nombre": "Monster Hunter Rise",
+    "categoria_web": [
+      "coop_divertido",
+      "matchmaking"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "acción",
+      "rpg",
+      "caza"
+    ]
+  },
+  {
+    "nombre": "PlateUp!",
+    "categoria_web": [
+      "coop_divertido",
+      "party"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "gestión",
+      "cocina",
+      "roguelite"
+    ]
+  },
+  {
+    "nombre": "Unturned",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "supervivencia",
+      "zombies",
+      "sandbox"
+    ]
+  },
+  {
+    "nombre": "DayZ",
+    "categoria_web": [
+      "coop_divertido",
+      "matchmaking"
+    ],
+    "jugadores": [
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "altos",
+    "tags": [
+      "supervivencia",
+      "zombies",
+      "multijugador"
+    ]
+  },
+  {
+    "nombre": "Scum",
+    "categoria_web": [
+      "coop_divertido",
+      "matchmaking"
+    ],
+    "jugadores": [
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "altos",
+    "tags": [
+      "supervivencia",
+      "realista",
+      "multijugador"
+    ]
+  },
+  {
+    "nombre": "Conan Exiles",
+    "categoria_web": [
+      "coop_divertido",
+      "matchmaking"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "altos",
+    "tags": [
+      "supervivencia",
+      "construcción",
+      "mundo abierto"
+    ]
+  },
+  {
+    "nombre": "Smalland: Survive the Wilds",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "supervivencia",
+      "mundo abierto",
+      "crafteo"
+    ]
+  },
+  {
+    "nombre": "Voidtrain",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "altos",
+    "tags": [
+      "supervivencia",
+      "acción",
+      "trenes"
+    ]
+  },
+  {
+    "nombre": "Outward",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "medios",
+    "tags": [
+      "rpg",
+      "supervivencia",
+      "mundo abierto"
+    ]
+  },
+  {
+    "nombre": "Outward Definitive Edition",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "medios",
+    "tags": [
+      "rpg",
+      "supervivencia",
+      "mundo abierto"
+    ]
+  },
+  {
+    "nombre": "Tribes of Midgard",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "supervivencia",
+      "rpg",
+      "defensa de torres"
+    ]
+  },
+  {
+    "nombre": "Necesse",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "supervivencia",
+      "colonia",
+      "sandbox"
+    ]
+  },
+  {
+    "nombre": "Keplerth",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "supervivencia",
+      "rpg",
+      "sandbox"
+    ]
+  },
+  {
+    "nombre": "Craftopia",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "supervivencia",
+      "crafteo",
+      "acción"
+    ]
+  },
+  {
+    "nombre": "Scrap Mechanic",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "supervivencia",
+      "construcción",
+      "físicas"
+    ]
+  },
+  {
+    "nombre": "The Survivalists",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "supervivencia",
+      "crafteo",
+      "monos"
+    ]
+  },
+  {
+    "nombre": "HumanitZ",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "supervivencia",
+      "zombies",
+      "isométrico"
+    ]
+  },
+  {
+    "nombre": "Dead by Daylight",
+    "categoria_web": [
+      "coop_divertido",
+      "matchmaking"
+    ],
+    "jugadores": [
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "terror",
+      "multijugador asimétrico",
+      "supervivencia"
+    ]
+  },
+  {
+    "nombre": "Schedule I",
+    "categoria_web": [
+      "coop_divertido"
+    ],
+    "jugadores": [
+      "coop",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "simulación",
+      "cooperativo",
+      "indie"
+    ]
+  },
+  {
+    "nombre": "Red Dead Redemption 2",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "altos",
+    "tags": [
+      "mundo abierto",
+      "historia",
+      "acción"
+    ]
+  },
+  {
+    "nombre": "The Last of Us Part II",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "altos",
+    "tags": [
+      "acción",
+      "historia",
+      "zombies"
+    ]
+  },
+  {
+    "nombre": "The Witcher 3: Wild Hunt",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "rpg",
+      "mundo abierto",
+      "fantasía"
+    ]
+  },
+  {
+    "nombre": "Cyberpunk 2077",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "altos",
+    "tags": [
+      "rpg",
+      "mundo abierto",
+      "ciencia ficción"
+    ]
+  },
+  {
+    "nombre": "God of War Ragnarök",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "altos",
+    "tags": [
+      "acción",
+      "historia",
+      "mitología"
+    ]
+  },
+  {
+    "nombre": "God of War (2018)",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "altos",
+    "tags": [
+      "acción",
+      "historia",
+      "mitología"
+    ]
+  },
+  {
+    "nombre": "Uncharted 4: A Thief's End",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "aventura",
+      "acción",
+      "historia"
+    ]
+  },
+  {
+    "nombre": "Uncharted: The Lost Legacy",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "aventura",
+      "acción",
+      "historia"
+    ]
+  },
+  {
+    "nombre": "Ghost of Tsushima",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "altos",
+    "tags": [
+      "mundo abierto",
+      "acción",
+      "samuráis"
+    ]
+  },
+  {
+    "nombre": "Horizon Zero Dawn",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "mundo abierto",
+      "acción",
+      "ciencia ficción"
+    ]
+  },
+  {
+    "nombre": "Horizon Forbidden West",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "altos",
+    "tags": [
+      "mundo abierto",
+      "acción",
+      "ciencia ficción"
+    ]
+  },
+  {
+    "nombre": "Marvel's Spider-Man",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "acción",
+      "mundo abierto",
+      "superhéroes"
+    ]
+  },
+  {
+    "nombre": "Marvel's Spider-Man 2",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "altos",
+    "tags": [
+      "acción",
+      "mundo abierto",
+      "superhéroes"
+    ]
+  },
+  {
+    "nombre": "Batman: Arkham Knight",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "acción",
+      "mundo abierto",
+      "superhéroes"
+    ]
+  },
+  {
+    "nombre": "Batman: Arkham City",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "acción",
+      "mundo abierto",
+      "superhéroes"
+    ]
+  },
+  {
+    "nombre": "Detroit: Become Human",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "baja",
+    "requisitos": "medios",
+    "tags": [
+      "historia",
+      "decisiones",
+      "ciencia ficción"
+    ]
+  },
+  {
+    "nombre": "Heavy Rain",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": [
+      "historia",
+      "decisiones",
+      "thriller"
+    ]
+  },
+  {
+    "nombre": "Beyond: Two Souls",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": [
+      "historia",
+      "decisiones",
+      "paranormal"
+    ]
+  },
+  {
+    "nombre": "Life is Strange",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": [
+      "historia",
+      "decisiones",
+      "adolescencia"
+    ]
+  },
+  {
+    "nombre": "Life is Strange: True Colors",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "baja",
+    "requisitos": "medios",
+    "tags": [
+      "historia",
+      "decisiones",
+      "emocional"
+    ]
+  },
+  {
+    "nombre": "Firewatch",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": [
+      "exploración",
+      "historia",
+      "indie"
+    ]
+  },
+  {
+    "nombre": "What Remains of Edith Finch",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": [
+      "exploración",
+      "historia",
+      "indie"
+    ]
+  },
+  {
+    "nombre": "A Plague Tale: Innocence",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "aventura",
+      "sigilo",
+      "historia"
+    ]
+  },
+  {
+    "nombre": "A Plague Tale: Requiem",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "altos",
+    "tags": [
+      "aventura",
+      "sigilo",
+      "historia"
+    ]
+  },
+  {
+    "nombre": "Hellblade: Senua's Sacrifice",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "acción",
+      "historia",
+      "psicológico"
+    ]
+  },
+  {
+    "nombre": "Hellblade II: Senua's Saga",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "altos",
+    "tags": [
+      "acción",
+      "historia",
+      "psicológico"
+    ]
+  },
+  {
+    "nombre": "Death Stranding",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "altos",
+    "tags": [
+      "exploración",
+      "historia",
+      "ciencia ficción"
+    ]
+  },
+  {
+    "nombre": "Days Gone",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "mundo abierto",
+      "zombies",
+      "supervivencia"
+    ]
+  },
+  {
+    "nombre": "Resident Evil 2 Remake",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "terror",
+      "supervivencia",
+      "zombies"
+    ]
+  },
+  {
+    "nombre": "Resident Evil 4 Remake",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "altos",
+    "tags": [
+      "terror",
+      "acción",
+      "supervivencia"
+    ]
+  },
+  {
+    "nombre": "Resident Evil 7: Biohazard",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "terror",
+      "primera persona",
+      "supervivencia"
+    ]
+  },
+  {
+    "nombre": "Resident Evil Village",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "altos",
+    "tags": [
+      "terror",
+      "primera persona",
+      "acción"
+    ]
+  },
+  {
+    "nombre": "Alan Wake 2",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "altos",
+    "tags": [
+      "terror",
+      "historia",
+      "supervivencia"
+    ]
+  },
+  {
+    "nombre": "Control",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "altos",
+    "tags": [
+      "acción",
+      "ciencia ficción",
+      "poderes"
+    ]
+  },
+  {
+    "nombre": "BioShock",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "shooter",
+      "historia",
+      "atmósfera"
+    ]
+  },
+  {
+    "nombre": "BioShock Infinite",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "shooter",
+      "historia",
+      "acción"
+    ]
+  },
+  {
+    "nombre": "Dishonored",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "sigilo",
+      "acción",
+      "primera persona"
+    ]
+  },
+  {
+    "nombre": "Dishonored 2",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "sigilo",
+      "acción",
+      "primera persona"
+    ]
+  },
+  {
+    "nombre": "Prey (2017)",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "ciencia ficción",
+      "shooter",
+      "inmersivo"
+    ]
+  },
+  {
+    "nombre": "The Elder Scrolls V: Skyrim",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "rpg",
+      "mundo abierto",
+      "fantasía"
+    ]
+  },
+  {
+    "nombre": "Fallout 4",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "rpg",
+      "mundo abierto",
+      "post-apocalíptico"
+    ]
+  },
+  {
+    "nombre": "Mass Effect Legendary Edition",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "rpg",
+      "ciencia ficción",
+      "historia"
+    ]
+  },
+  {
+    "nombre": "Dragon Age: Inquisition",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "rpg",
+      "fantasía",
+      "historia"
+    ]
+  },
+  {
+    "nombre": "Baldur's Gate 3",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "alta",
+    "requisitos": "altos",
+    "tags": [
+      "rpg",
+      "historia",
+      "turnos"
+    ]
+  },
+  {
+    "nombre": "Disco Elysium",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "rpg",
+      "narrativo",
+      "misterio"
+    ]
+  },
+  {
+    "nombre": "Persona 5 Royal",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "rpg",
+      "anime",
+      "turnos"
+    ]
+  },
+  {
+    "nombre": "Final Fantasy VII Remake",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "altos",
+    "tags": [
+      "rpg",
+      "acción",
+      "historia"
+    ]
+  },
+  {
+    "nombre": "Final Fantasy VII Rebirth",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "altos",
+    "tags": [
+      "rpg",
+      "acción",
+      "mundo abierto"
+    ]
+  },
+  {
+    "nombre": "NieR: Automata",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "acción",
+      "rpg",
+      "historia"
+    ]
+  },
+  {
+    "nombre": "NieR Replicant",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "acción",
+      "rpg",
+      "historia"
+    ]
+  },
+  {
+    "nombre": "Sekiro: Shadows Die Twice",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "alta",
+    "requisitos": "medios",
+    "tags": [
+      "acción",
+      "difícil",
+      "souls-like"
+    ]
+  },
+  {
+    "nombre": "Elden Ring",
+    "categoria_web": [
+      "singleplayer",
+      "matchmaking"
+    ],
+    "jugadores": [
+      "1",
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "altos",
+    "tags": [
+      "mundo abierto",
+      "difícil",
+      "rpg"
+    ]
+  },
+  {
+    "nombre": "Dark Souls III",
+    "categoria_web": [
+      "singleplayer",
+      "matchmaking"
+    ],
+    "jugadores": [
+      "1",
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "medios",
+    "tags": [
+      "difícil",
+      "rpg",
+      "fantasía"
+    ]
+  },
+  {
+    "nombre": "Bloodborne",
+    "categoria_web": [
+      "singleplayer",
+      "matchmaking"
+    ],
+    "jugadores": [
+      "1",
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "medios",
+    "tags": [
+      "difícil",
+      "acción",
+      "terror"
+    ]
+  },
+  {
+    "nombre": "Star Wars Jedi: Fallen Order",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "acción",
+      "aventura",
+      "ciencia ficción"
+    ]
+  },
+  {
+    "nombre": "Star Wars Jedi: Survivor",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "altos",
+    "tags": [
+      "acción",
+      "aventura",
+      "ciencia ficción"
+    ]
+  },
+  {
+    "nombre": "Tomb Raider (2013)",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "aventura",
+      "acción",
+      "exploración"
+    ]
+  },
+  {
+    "nombre": "Rise of the Tomb Raider",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "aventura",
+      "acción",
+      "exploración"
+    ]
+  },
+  {
+    "nombre": "Shadow of the Tomb Raider",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "altos",
+    "tags": [
+      "aventura",
+      "acción",
+      "exploración"
+    ]
+  },
+  {
+    "nombre": "Assassin's Creed II",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": [
+      "acción",
+      "mundo abierto",
+      "historia"
+    ]
+  },
+  {
+    "nombre": "Assassin's Creed IV: Black Flag",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "acción",
+      "mundo abierto",
+      "piratas"
+    ]
+  },
+  {
+    "nombre": "Assassin's Creed Odyssey",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "altos",
+    "tags": [
+      "rpg",
+      "mundo abierto",
+      "acción"
+    ]
+  },
+  {
+    "nombre": "Assassin's Creed Valhalla",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "altos",
+    "tags": [
+      "rpg",
+      "mundo abierto",
+      "vikingos"
+    ]
+  },
+  {
+    "nombre": "Far Cry 3",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "shooter",
+      "mundo abierto",
+      "acción"
+    ]
+  },
+  {
+    "nombre": "Far Cry 5",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1",
+      "coop"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "shooter",
+      "mundo abierto",
+      "acción"
+    ]
+  },
+  {
+    "nombre": "Far Cry 6",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1",
+      "coop"
+    ],
+    "dificultad": "media",
+    "requisitos": "altos",
+    "tags": [
+      "shooter",
+      "mundo abierto",
+      "acción"
+    ]
+  },
+  {
+    "nombre": "Metro Exodus",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "altos",
+    "tags": [
+      "shooter",
+      "post-apocalíptico",
+      "historia"
+    ]
+  },
+  {
+    "nombre": "Metro Last Light",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "shooter",
+      "post-apocalíptico",
+      "atmósfera"
+    ]
+  },
+  {
+    "nombre": "Metro 2033",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "shooter",
+      "post-apocalíptico",
+      "atmósfera"
+    ]
+  },
+  {
+    "nombre": "Wolfenstein: The New Order",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "shooter",
+      "acción",
+      "historia"
+    ]
+  },
+  {
+    "nombre": "Wolfenstein II: The New Colossus",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "shooter",
+      "acción",
+      "historia"
+    ]
+  },
+  {
+    "nombre": "DOOM Eternal",
+    "categoria_web": [
+      "singleplayer",
+      "matchmaking"
+    ],
+    "jugadores": [
+      "1",
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "altos",
+    "tags": [
+      "shooter",
+      "acción",
+      "gore"
+    ]
+  },
+  {
+    "nombre": "DOOM (2016)",
+    "categoria_web": [
+      "singleplayer",
+      "matchmaking"
+    ],
+    "jugadores": [
+      "1",
+      "online"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "shooter",
+      "acción",
+      "gore"
+    ]
+  },
+  {
+    "nombre": "Dead Space Remake",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "altos",
+    "tags": [
+      "terror",
+      "acción",
+      "ciencia ficción"
+    ]
+  },
+  {
+    "nombre": "Alien: Isolation",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "alta",
+    "requisitos": "medios",
+    "tags": [
+      "terror",
+      "sigilo",
+      "supervivencia"
+    ]
+  },
+  {
+    "nombre": "SOMA",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "terror",
+      "historia",
+      "ciencia ficción"
+    ]
+  },
+  {
+    "nombre": "Amnesia: The Dark Descent",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "alta",
+    "requisitos": "bajos",
+    "tags": [
+      "terror",
+      "puzzles",
+      "psicológico"
+    ]
+  },
+  {
+    "nombre": "Outlast",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "alta",
+    "requisitos": "bajos",
+    "tags": [
+      "terror",
+      "supervivencia",
+      "psicológico"
+    ]
+  },
+  {
+    "nombre": "The Evil Within",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "terror",
+      "acción",
+      "supervivencia"
+    ]
+  },
+  {
+    "nombre": "The Evil Within 2",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "terror",
+      "acción",
+      "supervivencia"
+    ]
+  },
+  {
+    "nombre": "Spec Ops: The Line",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "shooter",
+      "historia",
+      "acción"
+    ]
+  },
+  {
+    "nombre": "L.A. Noire",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "detectives",
+      "mundo abierto",
+      "historia"
+    ]
+  },
+  {
+    "nombre": "Mafia: Definitive Edition",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "acción",
+      "historia",
+      "mundo abierto"
+    ]
+  },
+  {
+    "nombre": "Mafia II",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "acción",
+      "historia",
+      "mundo abierto"
+    ]
+  },
+  {
+    "nombre": "Kingdom Come: Deliverance",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "alta",
+    "requisitos": "altos",
+    "tags": [
+      "rpg",
+      "realista",
+      "medieval"
+    ]
+  },
+  {
+    "nombre": "Mount & Blade II: Bannerlord",
+    "categoria_web": [
+      "singleplayer",
+      "matchmaking"
+    ],
+    "jugadores": [
+      "1",
+      "online"
+    ],
+    "dificultad": "alta",
+    "requisitos": "altos",
+    "tags": [
+      "rpg",
+      "estrategia",
+      "medieval"
+    ]
+  },
+  {
+    "nombre": "Outer Wilds",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "exploración",
+      "espacio",
+      "misterio"
+    ]
+  },
+  {
+    "nombre": "The Outer Worlds",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "rpg",
+      "ciencia ficción",
+      "humor"
+    ]
+  },
+  {
+    "nombre": "Stray",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "baja",
+    "requisitos": "medios",
+    "tags": [
+      "aventura",
+      "gatos",
+      "cyberpunk"
+    ]
+  },
+  {
+    "nombre": "Kena: Bridge of Spirits",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "acción",
+      "aventura",
+      "fantasía"
+    ]
+  },
+  {
+    "nombre": "Ori and the Blind Forest",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "plataformas",
+      "metroidvania",
+      "hermoso"
+    ]
+  },
+  {
+    "nombre": "Ori and the Will of the Wisps",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "plataformas",
+      "metroidvania",
+      "hermoso"
+    ]
+  },
+  {
+    "nombre": "Hades",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "alta",
+    "requisitos": "bajos",
+    "tags": [
+      "roguelike",
+      "acción",
+      "mitología"
+    ]
+  },
+  {
+    "nombre": "Celeste",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "alta",
+    "requisitos": "bajos",
+    "tags": [
+      "plataformas",
+      "indie",
+      "difícil"
+    ]
+  },
+  {
+    "nombre": "Undertale",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": [
+      "rpg",
+      "indie",
+      "historia"
+    ]
+  },
+  {
+    "nombre": "Deltarune",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": [
+      "rpg",
+      "indie",
+      "humor"
+    ]
+  },
+  {
+    "nombre": "INSIDE",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": [
+      "puzzles",
+      "plataformas",
+      "atmósfera"
+    ]
+  },
+  {
+    "nombre": "LIMBO",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": [
+      "puzzles",
+      "plataformas",
+      "atmósfera"
+    ]
+  },
+  {
+    "nombre": "Little Nightmares",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "bajos",
+    "tags": [
+      "terror",
+      "plataformas",
+      "puzzles"
+    ]
+  },
+  {
+    "nombre": "Little Nightmares II",
+    "categoria_web": [
+      "singleplayer"
+    ],
+    "jugadores": [
+      "1"
+    ],
+    "dificultad": "media",
+    "requisitos": "medios",
+    "tags": [
+      "terror",
+      "plataformas",
+      "puzzles"
+    ]
+  }
+]

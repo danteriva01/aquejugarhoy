@@ -1,0 +1,78 @@
+[
+  {
+    "code": "9GUDPQ",
+    "hostId": "76561198133102734",
+    "status": "lobby",
+    "type": null,
+    "round": 1,
+    "participants": [
+      {
+        "steamId": "76561198133102734",
+        "name": "dante",
+        "avatar": "https://avatars.steamstatic.com/5308bbe2a1c7dfdd760939d9844479b7cdcf4596_full.jpg",
+        "hasVoted": false
+      }
+    ],
+    "currentGames": [],
+    "votes": [],
+    "winner": null,
+    "lastUpdate": 1777950286149
+  },
+  {
+    "code": "YCIKKI",
+    "hostId": "76561198133102734",
+    "status": "lobby",
+    "type": null,
+    "round": 1,
+    "participants": [
+      {
+        "steamId": "76561198133102734",
+        "name": "dante",
+        "avatar": "https://avatars.steamstatic.com/5308bbe2a1c7dfdd760939d9844479b7cdcf4596_full.jpg",
+        "hasVoted": false
+      }
+    ],
+    "currentGames": [],
+    "votes": [],
+    "winner": null,
+    "lastUpdate": 1777950515480
+  },
+  {
+    "code": "OH8NST",
+    "hostId": "76561198133102734",
+    "status": "lobby",
+    "type": null,
+    "round": 1,
+    "participants": [
+      {
+        "steamId": "76561198133102734",
+        "name": "dante",
+        "avatar": "https://avatars.steamstatic.com/5308bbe2a1c7dfdd760939d9844479b7cdcf4596_full.jpg",
+        "hasVoted": false
+      }
+    ],
+    "currentGames": [],
+    "votes": [],
+    "winner": null,
+    "lastUpdate": 1777950609749
+  },
+  {
+    "code": "QOVPMB",
+    "hostId": "76561198133102734",
+    "status": "lobby",
+    "type": null,
+    "round": 1,
+    "participants": [
+      {
+        "steamId": "76561198133102734",
+        "name": "dante",
+        "avatar": "https://avatars.steamstatic.com/5308bbe2a1c7dfdd760939d9844479b7cdcf4596_full.jpg",
+        "hasVoted": false
+      }
+    ],
+    "currentGames": [],
+    "votes": [],
+    "winner": null,
+    "lastUpdate": 1777950689720
+  }
+]
