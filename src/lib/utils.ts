@@ -15,7 +15,8 @@ export function truncateText(text: string, maxLength: number): string {
   return text.slice(0, maxLength).trim() + '...';
 }
 
-export function formatDate(dateString: string): string {
+export function formatDate(dateString: string | null | undefined): string {
+  if (!dateString) return '';
   const date = new Date(dateString);
   return date.toLocaleDateString('es-AR', {
     year: 'numeric',
@@ -38,8 +39,8 @@ export function buildFilterParams(filters: Record<string, string | undefined>): 
   return params;
 }
 
-export function translateSteamRating(text: string): string {
-  if (!text) return text;
+export function translateSteamRating(text: string | null | undefined): string {
+  if (!text) return '';
   const normalized = text.trim();
   const translations: Record<string, string> = {
     'Overwhelmingly Positive': 'Extremadamente positivas',
@@ -63,8 +64,8 @@ export function translateSteamRating(text: string): string {
   return entry ? entry[1] : normalized;
 }
 
-export function translateGenre(name: string): string {
-  if (!name) return name;
+export function translateGenre(name: string | null | undefined): string {
+  if (!name) return '';
   const normalized = name.trim();
   const translations: Record<string, string> = {
     'Action': 'Acción',
