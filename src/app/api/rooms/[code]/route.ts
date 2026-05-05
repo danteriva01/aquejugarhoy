@@ -100,16 +100,22 @@ export async function POST(
           };
         });
 
-        // Eliminate majority negatives
-        let remaining = results.filter(r => !r.isNegativeMajority).map(r => r.game);
+        // Eliminate majority negatives and ensure games exist
+        let remaining = results
+          .filter(r => !r.isNegativeMajority && r.game)
+          .map(r => r.game as Game);
         
         // If everything was negative, keep the top 2
         if (remaining.length === 0) {
-          remaining = results.sort((a, b) => b.score - a.score).slice(0, 2).map(r => r.game);
+          remaining = results
+            .sort((a, b) => b.score - a.score)
+            .slice(0, 2)
+            .filter(r => r.game)
+            .map(r => r.game as Game);
         }
 
         if (remaining.length <= 1) {
-          room.winner = remaining[0] || results.sort((a, b) => b.score - a.score)[0].game;
+          room.winner = remaining[0] || (results.sort((a, b) => b.score - a.score)[0]?.game ?? null);
           room.status = 'finished';
         } else if (remaining.length <= 3) {
           room.currentGames = remaining;
@@ -118,7 +124,11 @@ export async function POST(
           room.round++;
         } else {
           // Still too many, pick top 3 for next round
-          room.currentGames = results.sort((a, b) => b.score - a.score).slice(0, 3).map(r => r.game);
+          room.currentGames = results
+            .sort((a, b) => b.score - a.score)
+            .slice(0, 3)
+            .filter(r => r.game)
+            .map(r => r.game as Game);
           room.votes = room.currentGames.map(g => ({ gameId: g.slug, positives: [], negatives: [] }));
           room.participants.forEach(p => p.hasVoted = false);
           room.round++;
