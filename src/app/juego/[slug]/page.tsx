@@ -75,7 +75,7 @@ export default async function GamePage({ params }: GamePageProps) {
       <div className="relative h-[45vh] sm:h-[55vh] overflow-hidden">
         {game.background_image && (
           <Image
-            src={game.background_image}
+            src={game.background_image ?? ''}
             alt={game.name}
             fill
             className="object-cover"
