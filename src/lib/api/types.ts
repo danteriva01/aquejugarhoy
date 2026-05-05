@@ -32,6 +32,16 @@ export interface Game {
   steamAppId?: string; // AppID used for fetching Steam assets like thumbnails
   description?: string;
   description_raw?: string;
+  _curatedContext?: {
+    nombre: string;
+    categoria_web: string[];
+    jugadores: string[];
+    precio?: string;
+    plataforma?: string[];
+    dificultad: string;
+    requisitos: string;
+    tags: string[];
+  };
 }
 
 export interface GamePriceInfo {

@@ -7,7 +7,7 @@ import ExplorerClient from './ExplorerClient';
 import { getGames, getGenres } from '@/lib/api/rawg';
 import { enrichGamesWithSteamData } from '@/lib/api/steam';
 import type { GameQueryParams, Game } from '@/lib/api/types';
-import { sortGamesByScore, getContextLabel, UserContext, inferUserProfile } from '@/lib/scoring';
+import { sortGamesByScore, getContextLabel, UserContext, inferUserProfile, isKnownFreeGame } from '@/lib/scoring';
 import { CURATED_VIDEOS, getRelevantVideos } from '@/lib/data/reels';
 import curatedGamesData from '@/lib/data/curated_games.json';
 import { getIronSession, IronSessionData } from 'iron-session';
@@ -56,28 +56,62 @@ export default async function ExplorerPage({ searchParams }: ExplorerPageProps) 
     const allCurated = curatedGamesData as unknown as Game[];
     
     enrichedResults = allCurated.filter(g => {
-      const ctx = (g as any)._curatedContext;
-      const cat = ctx?.categoria_web || [];
+      const ctx = g._curatedContext;
+      if (!ctx) return false;
       
-      if (params.withWhom === 'pareja' && cat.includes('pareja')) return true;
+      const cat = ctx.categoria_web || [];
+      const players = ctx.jugadores || [];
+      const platform = ctx.plataforma || [];
+      const price = ctx.precio || 'paid';
+
+      // 1. Core Category Filter (withWhom + style)
+      let matchCategory = false;
+      if (params.withWhom === 'pareja' && cat.includes('pareja')) matchCategory = true;
       if (params.withWhom === 'solo') {
-        if (params.gameStyle === 'singleplayer' && cat.includes('singleplayer')) return true;
-        if ((params.gameStyle === 'competitive-online' || params.gameStyle === 'mmo') && cat.includes('matchmaking')) return true;
+        if (params.gameStyle === 'singleplayer' && cat.includes('singleplayer')) matchCategory = true;
+        if ((params.gameStyle === 'competitive-online' || params.gameStyle === 'mmo') && cat.includes('matchmaking')) matchCategory = true;
       }
       if (params.withWhom === 'amigos') {
-         if (params.gameStyle === 'coop-fun' && cat.includes('coop_divertido')) return true;
-         if (params.gameStyle === 'party' && cat.includes('party')) return true;
-         if (params.gameStyle === 'matchmaking' && cat.includes('matchmaking')) return true;
+         if (params.gameStyle === 'coop-fun' && cat.includes('coop_divertido')) matchCategory = true;
+         if (params.gameStyle === 'party' && cat.includes('party')) matchCategory = true;
+         if (params.gameStyle === 'matchmaking' && cat.includes('matchmaking')) matchCategory = true;
       }
-      return false;
+      if (!matchCategory) return false;
+
+      // 2. Player Count Filter
+      if (params.playerCount === '5+') {
+        if (!players.includes('+5')) return false;
+      } else if (params.playerCount) {
+        // Simple numeric check if needed, but current dataset uses '1', 'coop' (2), '+5'
+        const target = params.playerCount;
+        if (target === '1' && !players.includes('1')) return false;
+        if (target === '2' && !players.includes('coop') && !players.includes('2')) return false;
+      }
+
+      // 3. Budget Filter (Free to Play)
+      if (params.budget === 'free') {
+        if (price !== 'free_to_play') return false;
+      }
+
+      // 4. Platform Filter (Optional param if we add it to UI later)
+      if (params.platform && !platform.includes(params.platform)) return false;
+
+      return true;
     });
 
-    // If for some reason the filter yielded 0 results, fallback to all curated to avoid empty screen
-    if (enrichedResults.length === 0) enrichedResults = allCurated;
+    // If for some reason the filter yielded 0 results, fallback to all curated matching the budget
+    if (enrichedResults.length === 0) {
+      enrichedResults = allCurated.filter(g => {
+        if (params.budget === 'free') {
+           return g._curatedContext?.precio === 'free_to_play';
+        }
+        return true;
+      });
+    }
     totalCount = enrichedResults.length;
     
   } else {
-    // ===== BROWSE MODE (RAWG API) =====
+    // ===== BROWSE MODE (RAWG API + Curated Merge) =====
     const [rawGames, rawGenres] = await Promise.all([
       getGames(queryParams).catch(() => ({ count: 0, next: null, previous: null, results: [] as Game[] })),
       getGenres().catch(() => ({ count: 0, next: null, previous: null, results: [] })),
@@ -86,14 +120,32 @@ export default async function ExplorerPage({ searchParams }: ExplorerPageProps) 
     totalCount = rawGames.count;
     genresList = rawGenres.results;
 
+    // Merge with curated data if searching
+    let rawResults = rawGames.results;
+    if (params.search) {
+      const searchLower = params.search.toLowerCase();
+      const allCurated = curatedGamesData as unknown as Game[];
+      const curatedMatches = allCurated.filter(g => 
+        (g.name?.toLowerCase() || '').includes(searchLower) || 
+        g.slug?.includes(searchLower)
+      );
+      
+      // Deduplicate: remove curated matches from raw results if they exist there
+      const curatedSlugs = new Set(curatedMatches.map(g => g.slug));
+      rawResults = [
+        ...curatedMatches,
+        ...rawResults.filter(g => !curatedSlugs.has(g.slug))
+      ];
+    }
+
     // Use optimized enrichment (Fast mode)
-    enrichedResults = await enrichGamesWithSteamData(rawGames.results, { fastMode: true, limit: 24 });
+    enrichedResults = await enrichGamesWithSteamData(rawResults, { fastMode: true, limit: 24 });
 
     // Strict filter for free-to-play in browse mode
-    if (params.tags?.includes('free-to-play')) {
+    if (params.tags?.includes('free-to-play') || params.budget === 'free') {
       enrichedResults = enrichedResults.filter(game => {
         if (game.priceInfo) return game.priceInfo.isFree || game.priceInfo.salePrice === 0;
-        return game.tags?.some(t => t.slug === 'free-to-play');
+        return game.tags?.some(t => t.slug === 'free-to-play') || isKnownFreeGame(game.slug) || game._curatedContext?.precio === 'free_to_play';
       });
     }
 
@@ -109,6 +161,15 @@ export default async function ExplorerPage({ searchParams }: ExplorerPageProps) 
         const pA = a.priceInfo?.isFree ? 0 : (a.priceInfo?.salePrice ?? 0);
         const pB = b.priceInfo?.isFree ? 0 : (b.priceInfo?.salePrice ?? 0);
         return pB - pA;
+      });
+    }
+    // Final safety filter for budget
+    if (params.budget === 'free' || params.tags?.includes('free-to-play')) {
+      enrichedResults = enrichedResults.filter(game => {
+        if (game.priceInfo) return game.priceInfo.isFree || game.priceInfo.salePrice === 0;
+        return game.tags?.some(t => t.slug === 'free-to-play') || 
+               isKnownFreeGame(game.slug) || 
+               game._curatedContext?.precio === 'free_to_play';
       });
     }
   }

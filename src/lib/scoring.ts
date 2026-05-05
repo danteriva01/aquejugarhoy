@@ -28,6 +28,7 @@ interface GameProfile {
   style: 'relaxed' | 'competitive' | 'narrative' | 'chaotic';
   requirements: 'low' | 'mid' | 'high';
   maxPlayers?: number;
+  isFree?: boolean;
 }
 
 const KNOWN_GAMES: Record<string, GameProfile> = {
@@ -59,24 +60,24 @@ const KNOWN_GAMES: Record<string, GameProfile> = {
   'the-escapists-2':      { difficulty: 'mid',  style: 'chaotic',     requirements: 'low',  maxPlayers: 4 },
   'keep-talking-and-nobody-explodes': { difficulty: 'mid', style: 'chaotic', requirements: 'low', maxPlayers: 2 },
   // --- Party ---
-  'among-us':             { difficulty: 'low',  style: 'chaotic',     requirements: 'low',  maxPlayers: 15 },
-  'fall-guys':            { difficulty: 'low',  style: 'chaotic',     requirements: 'mid',  maxPlayers: 60 },
-  'stumble-guys':         { difficulty: 'low',  style: 'chaotic',     requirements: 'low',  maxPlayers: 32 },
-  '8bit-fiesta':          { difficulty: 'low',  style: 'chaotic',     requirements: 'low',  maxPlayers: 8 },
-  'play-together':        { difficulty: 'low',  style: 'relaxed',     requirements: 'low',  maxPlayers: 50 },
-  'bapbap':               { difficulty: 'mid',  style: 'competitive', requirements: 'low',  maxPlayers: 30 },
-  'pummel-party':         { difficulty: 'low',  style: 'chaotic',     requirements: 'low',  maxPlayers: 8 },
+  'among-us':             { difficulty: 'low',  style: 'chaotic',     requirements: 'low',  maxPlayers: 15, isFree: false },
+  'fall-guys':            { difficulty: 'low',  style: 'chaotic',     requirements: 'mid',  maxPlayers: 60, isFree: true },
+  'stumble-guys':         { difficulty: 'low',  style: 'chaotic',     requirements: 'low',  maxPlayers: 32, isFree: true },
+  '8bit-fiesta':          { difficulty: 'low',  style: 'chaotic',     requirements: 'low',  maxPlayers: 8,  isFree: true },
+  'play-together':        { difficulty: 'low',  style: 'relaxed',     requirements: 'low',  maxPlayers: 50, isFree: true },
+  'bapbap':               { difficulty: 'mid',  style: 'competitive', requirements: 'low',  maxPlayers: 30, isFree: true },
+  'pummel-party':         { difficulty: 'low',  style: 'chaotic',     requirements: 'low',  maxPlayers: 8,  isFree: false },
   'pico-park':            { difficulty: 'low',  style: 'chaotic',     requirements: 'low',  maxPlayers: 8 },
   'worms-w-m-d':          { difficulty: 'low',  style: 'chaotic',     requirements: 'low',  maxPlayers: 6 },
   'worms-armageddon':     { difficulty: 'low',  style: 'chaotic',     requirements: 'low',  maxPlayers: 6 },
   'gang-beasts':          { difficulty: 'low',  style: 'chaotic',     requirements: 'low',  maxPlayers: 8 },
   'party-animals':        { difficulty: 'low',  style: 'chaotic',     requirements: 'mid',  maxPlayers: 8 },
   // --- Competitive ---
-  'counter-strike-2':     { difficulty: 'high', style: 'competitive', requirements: 'mid',  maxPlayers: 10 },
-  'valorant':             { difficulty: 'high', style: 'competitive', requirements: 'mid',  maxPlayers: 10 },
-  'league-of-legends':    { difficulty: 'high', style: 'competitive', requirements: 'low',  maxPlayers: 10 },
-  'dota-2':               { difficulty: 'high', style: 'competitive', requirements: 'low',  maxPlayers: 10 },
-  'rust':                 { difficulty: 'high', style: 'competitive', requirements: 'high', maxPlayers: 100 },
+  'counter-strike-2':     { difficulty: 'high', style: 'competitive', requirements: 'mid',  maxPlayers: 10, isFree: true },
+  'valorant':             { difficulty: 'high', style: 'competitive', requirements: 'mid',  maxPlayers: 10, isFree: true },
+  'league-of-legends':    { difficulty: 'high', style: 'competitive', requirements: 'low',  maxPlayers: 10, isFree: true },
+  'dota-2':               { difficulty: 'high', style: 'competitive', requirements: 'low',  maxPlayers: 10, isFree: true },
+  'rust':                 { difficulty: 'high', style: 'competitive', requirements: 'high', maxPlayers: 100, isFree: false },
   'escape-from-tarkov':   { difficulty: 'high', style: 'competitive', requirements: 'high', maxPlayers: 14 },
   'dayz':                 { difficulty: 'high', style: 'competitive', requirements: 'high', maxPlayers: 60 },
   'chivalry-2':           { difficulty: 'mid',  style: 'competitive', requirements: 'mid',  maxPlayers: 64 },
@@ -133,6 +134,13 @@ export function getGameRequirements(game: Game): 'low' | 'mid' | 'high' {
 
   if (KNOWN_GAMES[slug]) return KNOWN_GAMES[slug].requirements;
   return inferGameProfile(tags, genres).requirements;
+}
+
+/**
+ * Checks if a game is known to be free (manual override for missing tags).
+ */
+export function isKnownFreeGame(slug: string): boolean {
+  return KNOWN_GAMES[slug]?.isFree || false;
 }
 
 /**
@@ -336,7 +344,13 @@ export function calculateGameScore(game: Game, context: UserContext): { score: n
 
   // ===== D) Budget =====
   if (context.budget === 'free') {
-    if (tags.includes('free-to-play') || game.priceInfo?.isFree) {
+    const isFree = 
+      game._curatedContext?.precio === 'free_to_play' || 
+      tags.includes('free-to-play') || 
+      game.priceInfo?.isFree || 
+      profile.isFree;
+      
+    if (isFree) {
       score += 30; reasons.push('¡Gratis!');
     } else {
       score -= 1000; // Strict penalty to exclude paid games

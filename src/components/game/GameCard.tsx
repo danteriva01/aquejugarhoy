@@ -95,7 +95,21 @@ export default function GameCard({ game, index = 0 }: GameCardProps) {
                 </span>
               ))}
             </div>
-            <StoreIconsRow stores={game.stores} className="w-3 h-3" />
+            <div className="flex items-center gap-1.5">
+              {game._curatedContext?.plataforma?.map(platform => (
+                <span 
+                  key={platform} 
+                  className={`px-1.5 py-0.5 rounded text-[9px] font-bold uppercase tracking-wider ${
+                    platform === 'Steam' ? 'bg-blue-500/10 text-blue-400 border border-blue-500/20' : 
+                    platform === 'Epic' ? 'bg-purple-500/10 text-purple-400 border border-purple-500/20' : 
+                    'bg-bg-elevated text-text-muted border border-border'
+                  }`}
+                >
+                  {platform}
+                </span>
+              ))}
+              <StoreIconsRow stores={game.stores} className="w-3 h-3" />
+            </div>
           </div>
 
             {/* Rating, Year & Price */}
@@ -128,12 +142,12 @@ export default function GameCard({ game, index = 0 }: GameCardProps) {
               </div>
 
             {/* Price Badge */}
-            {game.priceInfo ? (
+            {(game.priceInfo || game._curatedContext?.precio === 'free_to_play') ? (
               <PriceBadge
-                normalPrice={game.priceInfo.normalPrice}
-                salePrice={game.priceInfo.salePrice}
-                discountPercent={game.priceInfo.discountPercent}
-                isFree={game.priceInfo.isFree}
+                normalPrice={game.priceInfo?.normalPrice ?? 0}
+                salePrice={game.priceInfo?.salePrice ?? 0}
+                discountPercent={game.priceInfo?.discountPercent ?? 0}
+                isFree={game.priceInfo?.isFree || game._curatedContext?.precio === 'free_to_play'}
                 size="sm"
               />
             ) : (

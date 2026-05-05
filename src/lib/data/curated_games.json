@@ -169,7 +169,11 @@
         "aventura",
         "cooperativo",
         "puzzles"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -676,7 +680,11 @@
         "cooperativo",
         "plataformas",
         "puzzles"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1225570",
     "priceInfo": {
@@ -1216,7 +1224,11 @@
         "casual",
         "cooperativo",
         "caótico"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "728880",
     "priceInfo": {
@@ -1419,7 +1431,11 @@
         "casual",
         "cooperativo",
         "físicas"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -2085,7 +2101,11 @@
         "simulación",
         "granjas",
         "relajante"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "413150",
     "priceInfo": {
@@ -2757,7 +2777,11 @@
         "sandbox",
         "supervivencia",
         "creativo"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1912410"
   },
@@ -2779,7 +2803,11 @@
         "aventura",
         "familiar",
         "acción"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -3290,7 +3318,11 @@
         "aventura",
         "familiar",
         "puzzles"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "2950340",
     "priceInfo": {
@@ -3828,7 +3860,11 @@
         "plataformas",
         "aventura",
         "acción"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "242550",
     "priceInfo": {
@@ -4450,7 +4486,11 @@
         "puzzles",
         "físicas",
         "comedia"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "477160",
     "priceInfo": {
@@ -4977,7 +5017,11 @@
         "acción",
         "espacio",
         "cooperativo"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "252110",
     "priceInfo": {
@@ -5521,7 +5565,11 @@
         "acción",
         "beat 'em up",
         "aventura"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "204360",
     "priceInfo": {
@@ -5859,7 +5907,11 @@
         "puzzles",
         "cooperativo",
         "casual"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1509960",
     "priceInfo": {
@@ -6398,7 +6450,11 @@
         "plataformas",
         "puzzles",
         "comedia"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -6873,7 +6929,11 @@
         "acción",
         "plataformas",
         "pixel art"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "274190",
     "priceInfo": {
@@ -7312,7 +7372,11 @@
         "puzzles",
         "sigilo",
         "comedia"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "837470",
     "priceInfo": {
@@ -7827,7 +7891,11 @@
         "puzzles",
         "aventura",
         "cooperativo"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "850320",
     "priceInfo": {
@@ -8197,7 +8265,11 @@
         "puzzles",
         "exploración",
         "relajante"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "944080",
     "priceInfo": {
@@ -8518,7 +8590,11 @@
         "plataformas",
         "físicas",
         "cooperativo"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "905340",
     "priceInfo": {
@@ -8936,7 +9012,11 @@
         "casual",
         "cooperativo",
         "simulación"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1004490",
     "priceInfo": {
@@ -9472,7 +9552,11 @@
         "simulación",
         "granjas",
         "relajante"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "673950",
     "priceInfo": {
@@ -9842,7 +9926,11 @@
         "gestión",
         "narrativo",
         "relajante"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "972660",
     "priceInfo": {
@@ -10076,7 +10164,11 @@
         "carreras",
         "familiar",
         "competitivo"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -10422,7 +10514,11 @@
         "carreras",
         "familiar",
         "competitivo"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -10550,7 +10646,11 @@
         "deportes",
         "fútbol",
         "competitivo"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -11060,7 +11160,11 @@
         "deportes",
         "fútbol",
         "competitivo"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -11626,7 +11730,11 @@
         "deportes",
         "carreras",
         "competitivo"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -12102,7 +12210,11 @@
         "lucha",
         "físicas",
         "caótico"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "285900",
     "priceInfo": {
@@ -12543,7 +12655,11 @@
         "físicas",
         "casual",
         "mundo abierto"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1011670",
     "priceInfo": {
@@ -13006,7 +13122,11 @@
         "aventura",
         "acción",
         "indie"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "592480",
     "priceInfo": {
@@ -13513,7 +13633,11 @@
         "puzzles",
         "plataformas",
         "indie"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "809880",
     "priceInfo": {
@@ -13947,7 +14071,11 @@
         "aventura",
         "puzzles",
         "indie"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1123450",
     "priceInfo": {
@@ -14131,7 +14259,11 @@
         "puzzles",
         "cooperativo",
         "familiar"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -14551,7 +14683,11 @@
         "puzzles",
         "casual",
         "cooperativo"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1242980",
     "priceInfo": {
@@ -14763,7 +14899,11 @@
         "casual",
         "puzzles",
         "comedia"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "4596990"
   },
@@ -14944,7 +15084,11 @@
         "minijuegos",
         "acción",
         "familiar"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -15166,7 +15310,11 @@
         "plataformas",
         "aventura",
         "familiar"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -15417,7 +15565,11 @@
         "plataformas",
         "acción",
         "familiar"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -15593,7 +15745,11 @@
         "plataformas",
         "aventura",
         "familiar"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -15800,7 +15956,11 @@
         "plataformas",
         "aventura",
         "familiar"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -16061,7 +16221,11 @@
         "plataformas",
         "acción",
         "difícil"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -16244,7 +16408,11 @@
         "plataformas",
         "aventura",
         "familiar"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -16675,7 +16843,11 @@
         "plataformas",
         "puzzles",
         "fantasía"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "690640",
     "priceInfo": {
@@ -17159,7 +17331,11 @@
         "plataformas",
         "puzzles",
         "fantasía"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "35700",
     "priceInfo": {
@@ -17457,7 +17633,11 @@
         "plataformas",
         "puzzles",
         "fantasía"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1228580",
     "priceInfo": {
@@ -17971,7 +18151,11 @@
         "plataformas",
         "puzzles",
         "fantasía"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "319910",
     "priceInfo": {
@@ -18467,7 +18651,11 @@
         "acción",
         "plataformas",
         "indie"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "508790",
     "priceInfo": {
@@ -18937,7 +19125,11 @@
         "puzzles",
         "plataformas",
         "indie"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "95400",
     "priceInfo": {
@@ -19441,7 +19633,11 @@
         "puzzles",
         "plataformas",
         "cooperativo"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "359840",
     "priceInfo": {
@@ -19473,7 +19669,11 @@
         "plataformas",
         "narrativo",
         "indie"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -19982,7 +20182,11 @@
         "supervivencia",
         "zombies",
         "crafteo"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "251570",
     "priceInfo": {
@@ -20423,7 +20627,11 @@
         "supervivencia",
         "zombies",
         "sandbox"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "108600",
     "priceInfo": {
@@ -21088,19 +21296,23 @@
     "_curatedContext": {
       "nombre": "Stardew Valley",
       "categoria_web": [
+        "pareja",
         "coop_divertido"
       ],
       "jugadores": [
-        "coop",
-        "online"
+        "coop"
       ],
       "dificultad": "baja",
       "requisitos": "bajos",
       "tags": [
         "simulación",
         "granjas",
-        "indie"
-      ]
+        "relajante"
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "413150",
     "priceInfo": {
@@ -21451,7 +21663,11 @@
         "terror",
         "cooperativo",
         "investigación"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "739630",
     "priceInfo": {
@@ -22276,7 +22492,11 @@
         "supervivencia",
         "sandbox",
         "aventura"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "105600",
     "priceInfo": {
@@ -22935,6 +23155,7 @@
     "_curatedContext": {
       "nombre": "Minecraft",
       "categoria_web": [
+        "pareja",
         "coop_divertido"
       ],
       "jugadores": [
@@ -22944,10 +23165,14 @@
       "dificultad": "baja",
       "requisitos": "bajos",
       "tags": [
-        "supervivencia",
         "sandbox",
+        "supervivencia",
         "creativo"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1912410"
   },
@@ -23308,7 +23533,11 @@
         "cooperativo",
         "acción",
         "minería"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "548430",
     "priceInfo": {
@@ -23870,7 +24099,11 @@
         "estrategia",
         "puzzles",
         "pixel art"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "641990",
     "priceInfo": {
@@ -24239,7 +24472,11 @@
         "supervivencia",
         "mundo abierto",
         "mitología"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "892970",
     "priceInfo": {
@@ -24692,7 +24929,11 @@
         "supervivencia",
         "sandbox",
         "difícil"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "322330",
     "priceInfo": {
@@ -24933,7 +25174,11 @@
         "supervivencia",
         "cooperativo",
         "crafteo"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "648800",
     "priceInfo": {
@@ -25307,7 +25552,11 @@
         "supervivencia",
         "realista",
         "selva"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "815370",
     "priceInfo": {
@@ -25695,7 +25944,11 @@
         "supervivencia",
         "terror",
         "crafteo"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "242760",
     "priceInfo": {
@@ -26078,7 +26331,11 @@
         "supervivencia",
         "terror",
         "mundo abierto"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1326470",
     "priceInfo": {
@@ -26578,7 +26835,11 @@
         "supervivencia",
         "competitivo",
         "sandbox"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "252490",
     "priceInfo": {
@@ -27252,7 +27513,11 @@
         "supervivencia",
         "dinosaurios",
         "mundo abierto"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "346110",
     "priceInfo": {
@@ -27462,7 +27727,11 @@
         "supervivencia",
         "mundo abierto",
         "aventura"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -27886,7 +28155,11 @@
         "supervivencia",
         "minería",
         "pixel art"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1621690",
     "priceInfo": {
@@ -28254,7 +28527,11 @@
         "supervivencia",
         "vampiros",
         "acción"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1604030",
     "priceInfo": {
@@ -28442,7 +28719,11 @@
         "supervivencia",
         "rpg",
         "mundo abierto"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -28859,7 +29140,11 @@
         "supervivencia",
         "captura de monstruos",
         "sandbox"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1623730",
     "priceInfo": {
@@ -29222,7 +29507,11 @@
         "terror",
         "cooperativo",
         "comedia"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1966720",
     "priceInfo": {
@@ -29612,7 +29901,11 @@
         "terror",
         "cooperativo",
         "comedia"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "2881650",
     "priceInfo": {
@@ -29810,7 +30103,11 @@
         "terror",
         "cooperativo",
         "difícil"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1274570",
     "priceInfo": {
@@ -29974,7 +30271,11 @@
         "terror",
         "puzzles",
         "cooperativo"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -30299,7 +30600,11 @@
         "terror",
         "cooperativo",
         "acción"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "967050",
     "priceInfo": {
@@ -30452,7 +30757,11 @@
         "terror",
         "caza",
         "cooperativo"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "509980",
     "priceInfo": {
@@ -30748,7 +31057,11 @@
         "acción",
         "terror",
         "hardcore"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "493520",
     "priceInfo": {
@@ -31282,7 +31595,11 @@
         "zombies",
         "acción",
         "cooperativo"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "550",
     "priceInfo": {
@@ -31878,7 +32195,11 @@
         "zombies",
         "acción",
         "cooperativo"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "924970",
     "priceInfo": {
@@ -32308,7 +32629,11 @@
         "acción",
         "zombies",
         "gore"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1430190",
     "priceInfo": {
@@ -32647,7 +32972,11 @@
         "acción",
         "cooperativo",
         "fantasía"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "552500",
     "priceInfo": {
@@ -33105,7 +33434,11 @@
         "acción",
         "cooperativo",
         "ciencia ficción"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1361210",
     "priceInfo": {
@@ -33570,7 +33903,11 @@
         "acción",
         "atracos",
         "cooperativo"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "218620",
     "priceInfo": {
@@ -34029,7 +34366,11 @@
         "acción",
         "atracos",
         "cooperativo"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1272080",
     "priceInfo": {
@@ -34489,7 +34830,11 @@
         "aventura",
         "piratas",
         "mundo abierto"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1172620",
     "priceInfo": {
@@ -35216,7 +35561,11 @@
         "exploración",
         "supervivencia",
         "espacio"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "275850",
     "priceInfo": {
@@ -35711,7 +36060,11 @@
         "exploración",
         "espacio",
         "sandbox"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "361420",
     "priceInfo": {
@@ -36042,7 +36395,11 @@
         "automatización",
         "construcción",
         "ciencia ficción"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "526870",
     "priceInfo": {
@@ -36568,7 +36925,11 @@
         "automatización",
         "estrategia",
         "supervivencia"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "427520",
     "priceInfo": {
@@ -36769,7 +37130,11 @@
         "minería",
         "sandbox",
         "simulación"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1106840",
     "priceInfo": {
@@ -37136,7 +37501,11 @@
         "simulación",
         "granjas",
         "rpg"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1432860",
     "priceInfo": {
@@ -37791,7 +38160,11 @@
         "simulación",
         "aventura",
         "crafteo"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1084600",
     "priceInfo": {
@@ -38386,7 +38759,11 @@
         "rpg",
         "turnos",
         "roguelike"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "527230",
     "priceInfo": {
@@ -38763,7 +39140,11 @@
         "rpg",
         "turnos",
         "roguelike"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1676840",
     "priceInfo": {
@@ -39220,7 +39601,11 @@
         "simulación",
         "supervivencia",
         "cooperativo"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "602960",
     "priceInfo": {
@@ -39621,7 +40006,11 @@
         "simulación",
         "espacio",
         "cooperativo"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "252870",
     "priceInfo": {
@@ -40038,7 +40427,11 @@
         "sandbox",
         "espacio",
         "construcción"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "244850",
     "priceInfo": {
@@ -40204,7 +40597,11 @@
         "supervivencia",
         "simulación",
         "ecología"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "382310",
     "priceInfo": {
@@ -40479,7 +40876,11 @@
         "supervivencia",
         "sandbox",
         "crafteo"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -40826,7 +41227,11 @@
         "terror",
         "cooperativo",
         "indie"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "2827200",
     "priceInfo": {
@@ -41050,7 +41455,11 @@
         "acción",
         "cooperativo",
         "indie"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -41572,7 +41981,11 @@
         "acción",
         "cooperativo",
         "indie"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "2001120",
     "priceInfo": {
@@ -41984,7 +42397,11 @@
         "supervivencia",
         "ciencia ficción",
         "cooperativo"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "427410",
     "priceInfo": {
@@ -42138,7 +42555,11 @@
         "terror",
         "cooperativo",
         "acción"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "3241660",
     "priceInfo": {
@@ -42501,7 +42922,11 @@
         "deducción social",
         "multijugador",
         "indie"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "2780980",
     "priceInfo": {
@@ -42656,7 +43081,11 @@
         "acción",
         "magia",
         "competitivo"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -42989,7 +43418,11 @@
         "comedia",
         "casual",
         "multijugador"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "3400930",
     "priceInfo": {
@@ -43299,7 +43732,11 @@
         "escondite",
         "casual",
         "multijugador"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "559650",
     "priceInfo": {
@@ -43647,7 +44084,11 @@
         "terror",
         "exploración",
         "egipto"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1562420",
     "priceInfo": {
@@ -43941,7 +44382,11 @@
         "terror",
         "caza de fantasmas",
         "cooperativo"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1807080",
     "priceInfo": {
@@ -44282,7 +44727,11 @@
         "terror",
         "puzzles",
         "cooperativo"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1987080",
     "priceInfo": {
@@ -44498,7 +44947,11 @@
         "terror",
         "exploración",
         "cooperativo"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -44866,7 +45319,11 @@
         "acción",
         "extracción",
         "fantasía"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "2016590",
     "priceInfo": {
@@ -45221,7 +45678,11 @@
         "shooter táctico",
         "acción",
         "realista"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1144200",
     "priceInfo": {
@@ -45471,7 +45932,11 @@
         "shooter táctico",
         "realista",
         "acción"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "16900",
     "priceInfo": {
@@ -45930,7 +46395,11 @@
         "shooter táctico",
         "acción",
         "competitivo"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1359090",
     "priceInfo": {
@@ -46528,7 +46997,11 @@
         "acción",
         "zombies",
         "parkour"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "534380",
     "priceInfo": {
@@ -47038,7 +47511,11 @@
         "zombies",
         "supervivencia",
         "gestión"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "495420",
     "priceInfo": {
@@ -47270,7 +47747,11 @@
         "acción",
         "mundo abierto",
         "robots"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -47706,7 +48187,11 @@
         "acción",
         "shooter",
         "souls-like"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "617290",
     "priceInfo": {
@@ -48116,7 +48601,11 @@
         "acción",
         "shooter",
         "souls-like"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1282100",
     "priceInfo": {
@@ -48567,7 +49056,11 @@
         "acción",
         "roguelike",
         "cooperativo"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "632360",
     "priceInfo": {
@@ -49007,7 +49500,11 @@
         "acción",
         "roguelike",
         "cooperativo"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1135230",
     "priceInfo": {
@@ -49516,7 +50013,11 @@
         "acción",
         "roguelike",
         "cooperativo"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "2071280",
     "priceInfo": {
@@ -50043,7 +50544,11 @@
         "acción",
         "rpg",
         "roguelike"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "330020",
     "priceInfo": {
@@ -50537,7 +51042,11 @@
         "rpg",
         "historia",
         "turnos"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1086940",
     "priceInfo": {
@@ -51038,7 +51547,11 @@
         "rpg",
         "historia",
         "turnos"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "435150",
     "priceInfo": {
@@ -51402,7 +51915,11 @@
         "acción",
         "shooter",
         "cooperativo"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "553850",
     "priceInfo": {
@@ -51813,7 +52330,11 @@
         "acción",
         "shooter",
         "cooperativo"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "2183900",
     "priceInfo": {
@@ -52392,7 +52913,11 @@
         "acción",
         "rpg",
         "caza"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "582010",
     "priceInfo": {
@@ -52922,7 +53447,11 @@
         "acción",
         "rpg",
         "caza"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1446780",
     "priceInfo": {
@@ -53361,7 +53890,11 @@
         "gestión",
         "cocina",
         "roguelite"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1599600",
     "priceInfo": {
@@ -53935,7 +54468,11 @@
         "supervivencia",
         "zombies",
         "sandbox"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "304930",
     "priceInfo": {
@@ -54364,7 +54901,11 @@
         "supervivencia",
         "zombies",
         "multijugador"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "221100",
     "priceInfo": {
@@ -54653,7 +55194,11 @@
         "supervivencia",
         "realista",
         "multijugador"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "513710",
     "priceInfo": {
@@ -55107,7 +55652,11 @@
         "supervivencia",
         "construcción",
         "mundo abierto"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "440900",
     "priceInfo": {
@@ -55452,7 +56001,11 @@
         "supervivencia",
         "mundo abierto",
         "crafteo"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "768200",
     "priceInfo": {
@@ -55692,7 +56245,11 @@
         "supervivencia",
         "acción",
         "trenes"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1159690",
     "priceInfo": {
@@ -56128,7 +56685,11 @@
         "rpg",
         "supervivencia",
         "mundo abierto"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "794260",
     "priceInfo": {
@@ -56576,7 +57137,7 @@
       }
     ],
     "_curatedContext": {
-      "nombre": "Outward Definitive Edition",
+      "nombre": "Outward",
       "categoria_web": [
         "coop_divertido"
       ],
@@ -56590,7 +57151,11 @@
         "rpg",
         "supervivencia",
         "mundo abierto"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "794260",
     "priceInfo": {
@@ -56912,7 +57477,11 @@
         "supervivencia",
         "rpg",
         "defensa de torres"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "858820",
     "priceInfo": {
@@ -57194,7 +57763,11 @@
         "supervivencia",
         "colonia",
         "sandbox"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1169040",
     "priceInfo": {
@@ -57483,7 +58056,11 @@
         "supervivencia",
         "rpg",
         "sandbox"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "747200",
     "priceInfo": {
@@ -57661,7 +58238,11 @@
         "supervivencia",
         "crafteo",
         "acción"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -57998,7 +58579,11 @@
         "supervivencia",
         "construcción",
         "físicas"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "387990",
     "priceInfo": {
@@ -58460,7 +59045,11 @@
         "supervivencia",
         "crafteo",
         "monos"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "897450",
     "priceInfo": {
@@ -58935,7 +59524,11 @@
         "supervivencia",
         "zombies",
         "isométrico"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1766060",
     "priceInfo": {
@@ -59534,7 +60127,11 @@
         "terror",
         "multijugador asimétrico",
         "supervivencia"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "381210",
     "priceInfo": {
@@ -59919,7 +60516,11 @@
         "simulación",
         "cooperativo",
         "indie"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "3164500",
     "priceInfo": {
@@ -60494,7 +61095,11 @@
         "mundo abierto",
         "historia",
         "acción"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1174180",
     "priceInfo": {
@@ -60764,7 +61369,11 @@
         "acción",
         "historia",
         "zombies"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "2531310",
     "priceInfo": {
@@ -61319,7 +61928,11 @@
         "rpg",
         "mundo abierto",
         "fantasía"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "292030",
     "priceInfo": {
@@ -61986,7 +62599,11 @@
         "rpg",
         "mundo abierto",
         "ciencia ficción"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1091500",
     "priceInfo": {
@@ -62483,7 +63100,11 @@
         "acción",
         "historia",
         "mitología"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "2322010",
     "priceInfo": {
@@ -62994,7 +63615,11 @@
         "acción",
         "historia",
         "mitología"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -63233,7 +63858,11 @@
         "aventura",
         "acción",
         "historia"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -63494,7 +64123,11 @@
         "aventura",
         "acción",
         "historia"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -63814,7 +64447,11 @@
         "mundo abierto",
         "acción",
         "samuráis"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "2215430",
     "priceInfo": {
@@ -64275,7 +64912,11 @@
         "mundo abierto",
         "acción",
         "ciencia ficción"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "2561580",
     "priceInfo": {
@@ -64306,7 +64947,11 @@
         "mundo abierto",
         "acción",
         "ciencia ficción"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -64660,7 +65305,11 @@
         "acción",
         "mundo abierto",
         "superhéroes"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "2651280",
     "priceInfo": {
@@ -65120,7 +65769,11 @@
         "acción",
         "mundo abierto",
         "superhéroes"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "2651280",
     "priceInfo": {
@@ -65627,7 +66280,11 @@
         "acción",
         "mundo abierto",
         "superhéroes"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "208650",
     "priceInfo": {
@@ -65658,7 +66315,11 @@
         "acción",
         "mundo abierto",
         "superhéroes"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -66179,7 +66840,11 @@
         "historia",
         "decisiones",
         "ciencia ficción"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1222140",
     "priceInfo": {
@@ -66674,7 +67339,11 @@
         "historia",
         "decisiones",
         "thriller"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "960910",
     "priceInfo": {
@@ -67216,7 +67885,11 @@
         "historia",
         "decisiones",
         "paranormal"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "960990",
     "priceInfo": {
@@ -67247,7 +67920,11 @@
         "historia",
         "decisiones",
         "adolescencia"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -67812,7 +68489,11 @@
         "historia",
         "decisiones",
         "emocional"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "936790",
     "priceInfo": {
@@ -68305,7 +68986,11 @@
         "exploración",
         "historia",
         "indie"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "383870",
     "priceInfo": {
@@ -68807,7 +69492,11 @@
         "exploración",
         "historia",
         "indie"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "501300",
     "priceInfo": {
@@ -69285,7 +69974,11 @@
         "aventura",
         "sigilo",
         "historia"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "752590",
     "priceInfo": {
@@ -69816,7 +70509,11 @@
         "aventura",
         "sigilo",
         "historia"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1182900",
     "priceInfo": {
@@ -70305,7 +71002,11 @@
         "acción",
         "historia",
         "psicológico"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "414340",
     "priceInfo": {
@@ -70482,7 +71183,11 @@
         "acción",
         "historia",
         "psicológico"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "2461850",
     "priceInfo": {
@@ -70952,7 +71657,11 @@
         "exploración",
         "historia",
         "ciencia ficción"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "3280350",
     "priceInfo": {
@@ -71499,7 +72208,11 @@
         "mundo abierto",
         "zombies",
         "supervivencia"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1259420",
     "priceInfo": {
@@ -71668,7 +72381,11 @@
         "terror",
         "supervivencia",
         "zombies"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -72179,7 +72896,11 @@
         "terror",
         "acción",
         "supervivencia"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "2050650",
     "priceInfo": {
@@ -72721,7 +73442,11 @@
         "terror",
         "primera persona",
         "supervivencia"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "418370",
     "priceInfo": {
@@ -73262,7 +73987,11 @@
         "terror",
         "primera persona",
         "acción"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1196590",
     "priceInfo": {
@@ -73506,7 +74235,11 @@
         "terror",
         "historia",
         "supervivencia"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -73989,7 +74722,11 @@
         "acción",
         "ciencia ficción",
         "poderes"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "4165870"
   },
@@ -74470,7 +75207,11 @@
         "shooter",
         "historia",
         "atmósfera"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "8870",
     "priceInfo": {
@@ -75047,7 +75788,11 @@
         "shooter",
         "historia",
         "acción"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "2028850",
     "priceInfo": {
@@ -75517,7 +76262,11 @@
         "sigilo",
         "acción",
         "primera persona"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "205100",
     "priceInfo": {
@@ -75983,7 +76732,11 @@
         "sigilo",
         "acción",
         "primera persona"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "403640",
     "priceInfo": {
@@ -76468,7 +77221,11 @@
         "ciencia ficción",
         "shooter",
         "inmersivo"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "480490",
     "priceInfo": {
@@ -77053,7 +77810,11 @@
         "rpg",
         "mundo abierto",
         "fantasía"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1746860",
     "priceInfo": {
@@ -77494,7 +78255,11 @@
         "rpg",
         "mundo abierto",
         "post-apocalíptico"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "377160",
     "priceInfo": {
@@ -78033,7 +78798,11 @@
         "rpg",
         "ciencia ficción",
         "historia"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1328670",
     "priceInfo": {
@@ -78619,7 +79388,11 @@
         "rpg",
         "fantasía",
         "historia"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1222690",
     "priceInfo": {
@@ -79101,10 +79874,11 @@
     "_curatedContext": {
       "nombre": "Baldur's Gate 3",
       "categoria_web": [
-        "singleplayer"
+        "coop_divertido"
       ],
       "jugadores": [
-        "1"
+        "coop",
+        "online"
       ],
       "dificultad": "alta",
       "requisitos": "altos",
@@ -79112,7 +79886,11 @@
         "rpg",
         "historia",
         "turnos"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1086940",
     "priceInfo": {
@@ -79546,7 +80324,11 @@
         "rpg",
         "narrativo",
         "misterio"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "632470",
     "priceInfo": {
@@ -80100,7 +80882,11 @@
         "rpg",
         "anime",
         "turnos"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1687950",
     "priceInfo": {
@@ -80532,7 +81318,11 @@
         "rpg",
         "acción",
         "historia"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "3837340",
     "priceInfo": {
@@ -80953,7 +81743,11 @@
         "rpg",
         "acción",
         "mundo abierto"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "2909400",
     "priceInfo": {
@@ -80984,7 +81778,11 @@
         "acción",
         "rpg",
         "historia"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -81217,7 +82015,11 @@
         "acción",
         "rpg",
         "historia"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1113560",
     "priceInfo": {
@@ -81765,7 +82567,11 @@
         "acción",
         "difícil",
         "souls-like"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "814380",
     "priceInfo": {
@@ -82295,7 +83101,11 @@
         "mundo abierto",
         "difícil",
         "rpg"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1245620",
     "priceInfo": {
@@ -82767,7 +83577,11 @@
         "difícil",
         "rpg",
         "fantasía"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "374320",
     "priceInfo": {
@@ -83048,7 +83862,11 @@
         "difícil",
         "acción",
         "terror"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -83068,7 +83886,11 @@
         "acción",
         "aventura",
         "ciencia ficción"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -83496,7 +84318,11 @@
         "acción",
         "aventura",
         "ciencia ficción"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1774580",
     "priceInfo": {
@@ -83956,7 +84782,11 @@
         "aventura",
         "acción",
         "exploración"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -84438,7 +85268,11 @@
         "aventura",
         "acción",
         "exploración"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "391220",
     "priceInfo": {
@@ -84946,7 +85780,11 @@
         "aventura",
         "acción",
         "exploración"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "750920",
     "priceInfo": {
@@ -85310,7 +86148,11 @@
         "acción",
         "mundo abierto",
         "historia"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "33230",
     "priceInfo": {
@@ -85869,7 +86711,11 @@
         "acción",
         "mundo abierto",
         "piratas"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "242050",
     "priceInfo": {
@@ -86381,7 +87227,11 @@
         "rpg",
         "mundo abierto",
         "acción"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "812140",
     "priceInfo": {
@@ -86932,7 +87782,11 @@
         "rpg",
         "mundo abierto",
         "vikingos"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "2208920",
     "priceInfo": {
@@ -87400,7 +88254,11 @@
         "shooter",
         "mundo abierto",
         "acción"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "220240",
     "priceInfo": {
@@ -87918,7 +88776,11 @@
         "shooter",
         "mundo abierto",
         "acción"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "552520",
     "priceInfo": {
@@ -88544,7 +89406,11 @@
         "shooter",
         "mundo abierto",
         "acción"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "2383690",
     "priceInfo": {
@@ -89077,7 +89943,11 @@
         "shooter",
         "post-apocalíptico",
         "historia"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "412020",
     "priceInfo": {
@@ -89378,7 +90248,11 @@
         "shooter",
         "post-apocalíptico",
         "atmósfera"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "287390",
     "priceInfo": {
@@ -89801,7 +90675,11 @@
         "shooter",
         "post-apocalíptico",
         "atmósfera"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "286690",
     "priceInfo": {
@@ -90301,7 +91179,11 @@
         "shooter",
         "acción",
         "historia"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "201810",
     "priceInfo": {
@@ -90869,7 +91751,11 @@
         "shooter",
         "acción",
         "historia"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "612880",
     "priceInfo": {
@@ -91409,7 +92295,11 @@
         "shooter",
         "acción",
         "gore"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "782330",
     "priceInfo": {
@@ -92164,7 +93054,11 @@
         "shooter",
         "acción",
         "gore"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "379720",
     "priceInfo": {
@@ -92693,7 +93587,11 @@
         "terror",
         "acción",
         "ciencia ficción"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "17470",
     "priceInfo": {
@@ -93264,7 +94162,11 @@
         "terror",
         "sigilo",
         "supervivencia"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "214490",
     "priceInfo": {
@@ -93764,7 +94666,11 @@
         "terror",
         "historia",
         "ciencia ficción"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "282140",
     "priceInfo": {
@@ -94181,7 +95087,11 @@
         "terror",
         "puzzles",
         "psicológico"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "57300",
     "priceInfo": {
@@ -94713,7 +95623,11 @@
         "terror",
         "supervivencia",
         "psicológico"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "238320",
     "priceInfo": {
@@ -95232,7 +96146,11 @@
         "terror",
         "acción",
         "supervivencia"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "268050",
     "priceInfo": {
@@ -95585,7 +96503,11 @@
         "terror",
         "acción",
         "supervivencia"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "601430",
     "priceInfo": {
@@ -96088,7 +97010,11 @@
         "shooter",
         "historia",
         "acción"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -96551,7 +97477,11 @@
         "detectives",
         "mundo abierto",
         "historia"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "110800",
     "priceInfo": {
@@ -96582,7 +97512,11 @@
         "acción",
         "historia",
         "mundo abierto"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -97028,7 +97962,11 @@
         "acción",
         "historia",
         "mundo abierto"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "50130",
     "priceInfo": {
@@ -97538,7 +98476,11 @@
         "rpg",
         "realista",
         "medieval"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "379430",
     "priceInfo": {
@@ -98014,7 +98956,11 @@
         "rpg",
         "estrategia",
         "medieval"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "261550",
     "priceInfo": {
@@ -98392,7 +99338,11 @@
         "exploración",
         "espacio",
         "misterio"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "753640",
     "priceInfo": {
@@ -98859,7 +99809,11 @@
         "rpg",
         "ciencia ficción",
         "humor"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "578650",
     "priceInfo": {
@@ -99054,7 +100008,11 @@
         "aventura",
         "gatos",
         "cyberpunk"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -99624,7 +100582,11 @@
         "acción",
         "aventura",
         "fantasía"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1954200",
     "priceInfo": {
@@ -100037,7 +100999,11 @@
         "plataformas",
         "metroidvania",
         "hermoso"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "261570"
   },
@@ -100509,7 +101475,11 @@
         "plataformas",
         "metroidvania",
         "hermoso"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "1057090",
     "priceInfo": {
@@ -100697,7 +101667,11 @@
         "roguelike",
         "acción",
         "mitología"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -101231,7 +102205,11 @@
         "plataformas",
         "indie",
         "difícil"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "504230",
     "priceInfo": {
@@ -101799,7 +102777,11 @@
         "rpg",
         "indie",
         "historia"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "391540",
     "priceInfo": {
@@ -102149,7 +103131,11 @@
         "rpg",
         "indie",
         "humor"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     }
   },
   {
@@ -102715,7 +103701,11 @@
         "puzzles",
         "plataformas",
         "atmósfera"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "304430",
     "priceInfo": {
@@ -103477,7 +104467,11 @@
         "puzzles",
         "plataformas",
         "atmósfera"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "48000",
     "priceInfo": {
@@ -104000,7 +104994,11 @@
         "terror",
         "plataformas",
         "puzzles"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "424840",
     "priceInfo": {
@@ -104486,7 +105484,11 @@
         "terror",
         "plataformas",
         "puzzles"
-      ]
+      ],
+      "plataforma": [
+        "Steam"
+      ],
+      "precio": "paid"
     },
     "steamAppId": "860510",
     "priceInfo": {

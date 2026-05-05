@@ -14,7 +14,11 @@
       "aventura",
       "cooperativo",
       "puzzles"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Unravel Two",
@@ -31,7 +35,11 @@
       "cooperativo",
       "plataformas",
       "puzzles"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Overcooked! 2",
@@ -49,7 +57,11 @@
       "casual",
       "cooperativo",
       "caótico"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Moving Out",
@@ -67,7 +79,11 @@
       "casual",
       "cooperativo",
       "físicas"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Stardew Valley",
@@ -84,7 +100,11 @@
       "simulación",
       "granjas",
       "relajante"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Minecraft",
@@ -102,7 +122,11 @@
       "sandbox",
       "supervivencia",
       "creativo"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Lego Star Wars: The Skywalker Saga",
@@ -119,7 +143,11 @@
       "aventura",
       "familiar",
       "acción"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Lego Harry Potter Collection",
@@ -136,7 +164,11 @@
       "aventura",
       "familiar",
       "puzzles"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Rayman Legends",
@@ -153,7 +185,11 @@
       "plataformas",
       "aventura",
       "acción"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Human: Fall Flat",
@@ -171,7 +207,11 @@
       "puzzles",
       "físicas",
       "comedia"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Lovers in a Dangerous Spacetime",
@@ -188,7 +228,11 @@
       "acción",
       "espacio",
       "cooperativo"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Castle Crashers",
@@ -206,7 +250,11 @@
       "acción",
       "beat 'em up",
       "aventura"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Pico Park",
@@ -224,7 +272,11 @@
       "puzzles",
       "cooperativo",
       "casual"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "BattleBlock Theater",
@@ -241,7 +293,11 @@
       "plataformas",
       "puzzles",
       "comedia"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Broforce",
@@ -258,7 +314,11 @@
       "acción",
       "plataformas",
       "pixel art"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Untitled Goose Game",
@@ -276,7 +336,11 @@
       "puzzles",
       "sigilo",
       "comedia"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Phogs!",
@@ -293,7 +357,11 @@
       "puzzles",
       "aventura",
       "cooperativo"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Pode",
@@ -310,7 +378,11 @@
       "puzzles",
       "exploración",
       "relajante"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Heave Ho",
@@ -328,7 +400,11 @@
       "plataformas",
       "físicas",
       "cooperativo"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Tools Up!",
@@ -346,7 +422,11 @@
       "casual",
       "cooperativo",
       "simulación"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Farm Together",
@@ -364,7 +444,11 @@
       "simulación",
       "granjas",
       "relajante"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Spiritfarer",
@@ -381,7 +465,11 @@
       "gestión",
       "narrativo",
       "relajante"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Mario Kart 8 Deluxe",
@@ -401,7 +489,11 @@
       "carreras",
       "familiar",
       "competitivo"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Crash Team Racing Nitro-Fueled",
@@ -421,7 +513,11 @@
       "carreras",
       "familiar",
       "competitivo"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "FIFA 23",
@@ -440,7 +536,11 @@
       "deportes",
       "fútbol",
       "competitivo"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "EA Sports FC 24",
@@ -459,7 +559,11 @@
       "deportes",
       "fútbol",
       "competitivo"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Rocket League",
@@ -478,7 +582,11 @@
       "deportes",
       "carreras",
       "competitivo"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Gang Beasts",
@@ -497,7 +605,11 @@
       "lucha",
       "físicas",
       "caótico"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Totally Reliable Delivery Service",
@@ -516,7 +628,11 @@
       "físicas",
       "casual",
       "mundo abierto"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Knights and Bikes",
@@ -533,7 +649,11 @@
       "aventura",
       "acción",
       "indie"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Degrees of Separation",
@@ -550,7 +670,11 @@
       "puzzles",
       "plataformas",
       "indie"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Chicory: A Colorful Tale",
@@ -567,7 +691,11 @@
       "aventura",
       "puzzles",
       "indie"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Snipperclips",
@@ -584,7 +712,11 @@
       "puzzles",
       "cooperativo",
       "familiar"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "KeyWe",
@@ -601,7 +733,11 @@
       "puzzles",
       "casual",
       "cooperativo"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Good Job!",
@@ -618,7 +754,11 @@
       "casual",
       "puzzles",
       "comedia"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "WarioWare: Get It Together!",
@@ -636,7 +776,11 @@
       "minijuegos",
       "acción",
       "familiar"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Super Mario 3D World + Bowser's Fury",
@@ -653,7 +797,11 @@
       "plataformas",
       "aventura",
       "familiar"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "New Super Mario Bros. U Deluxe",
@@ -670,7 +818,11 @@
       "plataformas",
       "acción",
       "familiar"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Kirby and the Forgotten Land",
@@ -687,7 +839,11 @@
       "plataformas",
       "aventura",
       "familiar"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Kirby Star Allies",
@@ -704,7 +860,11 @@
       "plataformas",
       "aventura",
       "familiar"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Donkey Kong Country: Tropical Freeze",
@@ -721,7 +881,11 @@
       "plataformas",
       "acción",
       "difícil"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Yoshi's Crafted World",
@@ -738,7 +902,11 @@
       "plataformas",
       "aventura",
       "familiar"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Trine 4: The Nightmare Prince",
@@ -755,7 +923,11 @@
       "plataformas",
       "puzzles",
       "fantasía"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Trine Enchanted Edition",
@@ -772,7 +944,11 @@
       "plataformas",
       "puzzles",
       "fantasía"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Trine 2",
@@ -789,7 +965,11 @@
       "plataformas",
       "puzzles",
       "fantasía"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Trine 3: The Artifacts of Power",
@@ -806,7 +986,11 @@
       "plataformas",
       "puzzles",
       "fantasía"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Flat Heroes",
@@ -823,7 +1007,11 @@
       "acción",
       "plataformas",
       "indie"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Ibb & Obb",
@@ -840,7 +1028,11 @@
       "puzzles",
       "plataformas",
       "indie"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Shift Happens",
@@ -857,7 +1049,11 @@
       "puzzles",
       "plataformas",
       "cooperativo"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Never Alone (Kisima Ingitchuna)",
@@ -874,7 +1070,11 @@
       "plataformas",
       "narrativo",
       "indie"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "7 Days to Die",
@@ -891,7 +1091,11 @@
       "supervivencia",
       "zombies",
       "crafteo"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Project Zomboid",
@@ -908,7 +1112,11 @@
       "supervivencia",
       "zombies",
       "sandbox"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Stardew Valley",
@@ -925,7 +1133,11 @@
       "simulación",
       "granjas",
       "indie"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Phasmophobia",
@@ -942,7 +1154,11 @@
       "terror",
       "cooperativo",
       "investigación"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Terraria",
@@ -959,7 +1175,11 @@
       "supervivencia",
       "sandbox",
       "aventura"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Minecraft",
@@ -976,7 +1196,11 @@
       "supervivencia",
       "sandbox",
       "creativo"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Deep Rock Galactic",
@@ -993,7 +1217,11 @@
       "cooperativo",
       "acción",
       "minería"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "The Escapists 2",
@@ -1010,7 +1238,11 @@
       "estrategia",
       "puzzles",
       "pixel art"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Valheim",
@@ -1027,7 +1259,11 @@
       "supervivencia",
       "mundo abierto",
       "mitología"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Don't Starve Together",
@@ -1044,7 +1280,11 @@
       "supervivencia",
       "sandbox",
       "difícil"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Raft",
@@ -1061,7 +1301,11 @@
       "supervivencia",
       "cooperativo",
       "crafteo"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Green Hell",
@@ -1078,7 +1322,11 @@
       "supervivencia",
       "realista",
       "selva"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "The Forest",
@@ -1095,7 +1343,11 @@
       "supervivencia",
       "terror",
       "crafteo"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Sons of the Forest",
@@ -1112,7 +1364,11 @@
       "supervivencia",
       "terror",
       "mundo abierto"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Rust",
@@ -1129,7 +1385,11 @@
       "supervivencia",
       "competitivo",
       "sandbox"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "ARK: Survival Evolved",
@@ -1146,7 +1406,11 @@
       "supervivencia",
       "dinosaurios",
       "mundo abierto"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Grounded",
@@ -1163,7 +1427,11 @@
       "supervivencia",
       "mundo abierto",
       "aventura"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Core Keeper",
@@ -1180,7 +1448,11 @@
       "supervivencia",
       "minería",
       "pixel art"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "V Rising",
@@ -1198,7 +1470,11 @@
       "supervivencia",
       "vampiros",
       "acción"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Enshrouded",
@@ -1215,7 +1491,11 @@
       "supervivencia",
       "rpg",
       "mundo abierto"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Palworld",
@@ -1232,7 +1512,11 @@
       "supervivencia",
       "captura de monstruos",
       "sandbox"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Lethal Company",
@@ -1250,7 +1534,11 @@
       "terror",
       "cooperativo",
       "comedia"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Content Warning",
@@ -1268,7 +1556,11 @@
       "terror",
       "cooperativo",
       "comedia"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Devour",
@@ -1285,7 +1577,11 @@
       "terror",
       "cooperativo",
       "difícil"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Labyrinthine",
@@ -1302,7 +1598,11 @@
       "terror",
       "puzzles",
       "cooperativo"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Pacify",
@@ -1319,7 +1619,11 @@
       "terror",
       "cooperativo",
       "acción"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Bigfoot",
@@ -1336,7 +1640,11 @@
       "terror",
       "caza",
       "cooperativo"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "GTFO",
@@ -1353,7 +1661,11 @@
       "acción",
       "terror",
       "hardcore"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Left 4 Dead 2",
@@ -1370,7 +1682,11 @@
       "zombies",
       "acción",
       "cooperativo"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Back 4 Blood",
@@ -1388,7 +1704,11 @@
       "zombies",
       "acción",
       "cooperativo"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Killing Floor 3",
@@ -1406,7 +1726,11 @@
       "acción",
       "zombies",
       "gore"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Warhammer: Vermintide 2",
@@ -1423,7 +1747,11 @@
       "acción",
       "cooperativo",
       "fantasía"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Warhammer 40,000: Darktide",
@@ -1440,7 +1768,11 @@
       "acción",
       "cooperativo",
       "ciencia ficción"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Payday 2",
@@ -1457,7 +1789,11 @@
       "acción",
       "atracos",
       "cooperativo"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Payday 3",
@@ -1474,7 +1810,11 @@
       "acción",
       "atracos",
       "cooperativo"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Sea of Thieves",
@@ -1492,7 +1832,11 @@
       "aventura",
       "piratas",
       "mundo abierto"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "No Man's Sky",
@@ -1509,7 +1853,11 @@
       "exploración",
       "supervivencia",
       "espacio"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Astroneer",
@@ -1526,7 +1874,11 @@
       "exploración",
       "espacio",
       "sandbox"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Satisfactory",
@@ -1543,7 +1895,11 @@
       "automatización",
       "construcción",
       "ciencia ficción"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Factorio",
@@ -1560,7 +1916,11 @@
       "automatización",
       "estrategia",
       "supervivencia"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Hydroneer",
@@ -1577,7 +1937,11 @@
       "minería",
       "sandbox",
       "simulación"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Sun Haven",
@@ -1594,7 +1958,11 @@
       "simulación",
       "granjas",
       "rpg"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "My Time at Sandrock",
@@ -1611,7 +1979,11 @@
       "simulación",
       "aventura",
       "crafteo"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "For The King",
@@ -1628,7 +2000,11 @@
       "rpg",
       "turnos",
       "roguelike"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "For The King II",
@@ -1645,7 +2021,11 @@
       "rpg",
       "turnos",
       "roguelike"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Barotrauma",
@@ -1662,7 +2042,11 @@
       "simulación",
       "supervivencia",
       "cooperativo"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Pulsar: Lost Colony",
@@ -1679,7 +2063,11 @@
       "simulación",
       "espacio",
       "cooperativo"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Space Engineers",
@@ -1696,7 +2084,11 @@
       "sandbox",
       "espacio",
       "construcción"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Eco",
@@ -1713,7 +2105,11 @@
       "supervivencia",
       "simulación",
       "ecología"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Vintage Story",
@@ -1730,7 +2126,11 @@
       "supervivencia",
       "sandbox",
       "crafteo"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "MIMESIS",
@@ -1747,7 +2147,11 @@
       "terror",
       "cooperativo",
       "indie"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "PEAK",
@@ -1764,7 +2168,11 @@
       "acción",
       "cooperativo",
       "indie"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Split Fiction",
@@ -1781,7 +2189,11 @@
       "acción",
       "cooperativo",
       "indie"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Abiotic Factor",
@@ -1798,7 +2210,11 @@
       "supervivencia",
       "ciencia ficción",
       "cooperativo"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "R.E.P.O.",
@@ -1815,7 +2231,11 @@
       "terror",
       "cooperativo",
       "acción"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Lockdown Protocol",
@@ -1833,7 +2253,11 @@
       "deducción social",
       "multijugador",
       "indie"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Mage Arena",
@@ -1851,7 +2275,11 @@
       "acción",
       "magia",
       "competitivo"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Guilty as Sock!",
@@ -1869,7 +2297,11 @@
       "comedia",
       "casual",
       "multijugador"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Witch It",
@@ -1887,7 +2319,11 @@
       "escondite",
       "casual",
       "multijugador"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Forewarned",
@@ -1904,7 +2340,11 @@
       "terror",
       "exploración",
       "egipto"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Ghost Exile",
@@ -1921,7 +2361,11 @@
       "terror",
       "caza de fantasmas",
       "cooperativo"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Inside the Backrooms",
@@ -1938,7 +2382,11 @@
       "terror",
       "puzzles",
       "cooperativo"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Escape the Backrooms",
@@ -1955,7 +2403,11 @@
       "terror",
       "exploración",
       "cooperativo"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Dark and Darker",
@@ -1973,7 +2425,11 @@
       "acción",
       "extracción",
       "fantasía"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Ready or Not",
@@ -1990,7 +2446,11 @@
       "shooter táctico",
       "acción",
       "realista"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Ground Branch",
@@ -2007,7 +2467,11 @@
       "shooter táctico",
       "realista",
       "acción"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Zero Hour",
@@ -2025,7 +2489,11 @@
       "shooter táctico",
       "acción",
       "competitivo"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Dying Light 2 Stay Human",
@@ -2042,7 +2510,11 @@
       "acción",
       "zombies",
       "parkour"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "State of Decay 2",
@@ -2059,7 +2531,11 @@
       "zombies",
       "supervivencia",
       "gestión"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Generation Zero",
@@ -2076,7 +2552,11 @@
       "acción",
       "mundo abierto",
       "robots"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Remnant: From the Ashes",
@@ -2093,7 +2573,11 @@
       "acción",
       "shooter",
       "souls-like"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Remnant II",
@@ -2110,7 +2594,11 @@
       "acción",
       "shooter",
       "souls-like"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Risk of Rain 2",
@@ -2127,7 +2615,11 @@
       "acción",
       "roguelike",
       "cooperativo"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Ember Knights",
@@ -2144,7 +2636,11 @@
       "acción",
       "roguelike",
       "cooperativo"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Ravenwatch",
@@ -2161,7 +2657,11 @@
       "acción",
       "roguelike",
       "cooperativo"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Children of Morta",
@@ -2178,7 +2678,11 @@
       "acción",
       "rpg",
       "roguelike"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Baldur's Gate 3",
@@ -2195,7 +2699,11 @@
       "rpg",
       "historia",
       "turnos"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Divinity: Original Sin 2",
@@ -2212,7 +2720,11 @@
       "rpg",
       "historia",
       "turnos"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Helldivers 2",
@@ -2230,7 +2742,11 @@
       "acción",
       "shooter",
       "cooperativo"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Warhammer 40,000: Space Marine 2",
@@ -2248,7 +2764,11 @@
       "acción",
       "shooter",
       "cooperativo"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Monster Hunter: World",
@@ -2266,7 +2786,11 @@
       "acción",
       "rpg",
       "caza"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Monster Hunter Rise",
@@ -2284,7 +2808,11 @@
       "acción",
       "rpg",
       "caza"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "PlateUp!",
@@ -2302,7 +2830,11 @@
       "gestión",
       "cocina",
       "roguelite"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Unturned",
@@ -2319,7 +2851,11 @@
       "supervivencia",
       "zombies",
       "sandbox"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "DayZ",
@@ -2336,7 +2872,11 @@
       "supervivencia",
       "zombies",
       "multijugador"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Scum",
@@ -2353,7 +2893,11 @@
       "supervivencia",
       "realista",
       "multijugador"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Conan Exiles",
@@ -2371,7 +2915,11 @@
       "supervivencia",
       "construcción",
       "mundo abierto"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Smalland: Survive the Wilds",
@@ -2388,7 +2936,11 @@
       "supervivencia",
       "mundo abierto",
       "crafteo"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Voidtrain",
@@ -2405,7 +2957,11 @@
       "supervivencia",
       "acción",
       "trenes"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Outward",
@@ -2422,7 +2978,11 @@
       "rpg",
       "supervivencia",
       "mundo abierto"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Outward Definitive Edition",
@@ -2439,7 +2999,11 @@
       "rpg",
       "supervivencia",
       "mundo abierto"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Tribes of Midgard",
@@ -2456,7 +3020,11 @@
       "supervivencia",
       "rpg",
       "defensa de torres"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Necesse",
@@ -2473,7 +3041,11 @@
       "supervivencia",
       "colonia",
       "sandbox"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Keplerth",
@@ -2490,7 +3062,11 @@
       "supervivencia",
       "rpg",
       "sandbox"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Craftopia",
@@ -2507,7 +3083,11 @@
       "supervivencia",
       "crafteo",
       "acción"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Scrap Mechanic",
@@ -2524,7 +3104,11 @@
       "supervivencia",
       "construcción",
       "físicas"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "The Survivalists",
@@ -2541,7 +3125,11 @@
       "supervivencia",
       "crafteo",
       "monos"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "HumanitZ",
@@ -2558,7 +3146,11 @@
       "supervivencia",
       "zombies",
       "isométrico"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Dead by Daylight",
@@ -2575,7 +3167,11 @@
       "terror",
       "multijugador asimétrico",
       "supervivencia"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Schedule I",
@@ -2592,7 +3188,11 @@
       "simulación",
       "cooperativo",
       "indie"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Red Dead Redemption 2",
@@ -2608,7 +3208,11 @@
       "mundo abierto",
       "historia",
       "acción"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "The Last of Us Part II",
@@ -2624,7 +3228,11 @@
       "acción",
       "historia",
       "zombies"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "The Witcher 3: Wild Hunt",
@@ -2640,7 +3248,11 @@
       "rpg",
       "mundo abierto",
       "fantasía"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Cyberpunk 2077",
@@ -2656,7 +3268,11 @@
       "rpg",
       "mundo abierto",
       "ciencia ficción"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "God of War Ragnarök",
@@ -2672,7 +3288,11 @@
       "acción",
       "historia",
       "mitología"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "God of War (2018)",
@@ -2688,7 +3308,11 @@
       "acción",
       "historia",
       "mitología"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Uncharted 4: A Thief's End",
@@ -2704,7 +3328,11 @@
       "aventura",
       "acción",
       "historia"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Uncharted: The Lost Legacy",
@@ -2720,7 +3348,11 @@
       "aventura",
       "acción",
       "historia"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Ghost of Tsushima",
@@ -2736,7 +3368,11 @@
       "mundo abierto",
       "acción",
       "samuráis"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Horizon Zero Dawn",
@@ -2752,7 +3388,11 @@
       "mundo abierto",
       "acción",
       "ciencia ficción"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Horizon Forbidden West",
@@ -2768,7 +3408,11 @@
       "mundo abierto",
       "acción",
       "ciencia ficción"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Marvel's Spider-Man",
@@ -2784,7 +3428,11 @@
       "acción",
       "mundo abierto",
       "superhéroes"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Marvel's Spider-Man 2",
@@ -2800,7 +3448,11 @@
       "acción",
       "mundo abierto",
       "superhéroes"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Batman: Arkham Knight",
@@ -2816,7 +3468,11 @@
       "acción",
       "mundo abierto",
       "superhéroes"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Batman: Arkham City",
@@ -2832,7 +3488,11 @@
       "acción",
       "mundo abierto",
       "superhéroes"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Detroit: Become Human",
@@ -2848,7 +3508,11 @@
       "historia",
       "decisiones",
       "ciencia ficción"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Heavy Rain",
@@ -2864,7 +3528,11 @@
       "historia",
       "decisiones",
       "thriller"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Beyond: Two Souls",
@@ -2880,7 +3548,11 @@
       "historia",
       "decisiones",
       "paranormal"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Life is Strange",
@@ -2896,7 +3568,11 @@
       "historia",
       "decisiones",
       "adolescencia"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Life is Strange: True Colors",
@@ -2912,7 +3588,11 @@
       "historia",
       "decisiones",
       "emocional"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Firewatch",
@@ -2928,7 +3608,11 @@
       "exploración",
       "historia",
       "indie"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "What Remains of Edith Finch",
@@ -2944,7 +3628,11 @@
       "exploración",
       "historia",
       "indie"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "A Plague Tale: Innocence",
@@ -2960,7 +3648,11 @@
       "aventura",
       "sigilo",
       "historia"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "A Plague Tale: Requiem",
@@ -2976,7 +3668,11 @@
       "aventura",
       "sigilo",
       "historia"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Hellblade: Senua's Sacrifice",
@@ -2992,7 +3688,11 @@
       "acción",
       "historia",
       "psicológico"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Hellblade II: Senua's Saga",
@@ -3008,7 +3708,11 @@
       "acción",
       "historia",
       "psicológico"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Death Stranding",
@@ -3024,7 +3728,11 @@
       "exploración",
       "historia",
       "ciencia ficción"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Days Gone",
@@ -3040,7 +3748,11 @@
       "mundo abierto",
       "zombies",
       "supervivencia"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Resident Evil 2 Remake",
@@ -3056,7 +3768,11 @@
       "terror",
       "supervivencia",
       "zombies"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Resident Evil 4 Remake",
@@ -3072,7 +3788,11 @@
       "terror",
       "acción",
       "supervivencia"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Resident Evil 7: Biohazard",
@@ -3088,7 +3808,11 @@
       "terror",
       "primera persona",
       "supervivencia"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Resident Evil Village",
@@ -3104,7 +3828,11 @@
       "terror",
       "primera persona",
       "acción"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Alan Wake 2",
@@ -3120,7 +3848,11 @@
       "terror",
       "historia",
       "supervivencia"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Control",
@@ -3136,7 +3868,11 @@
       "acción",
       "ciencia ficción",
       "poderes"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "BioShock",
@@ -3152,7 +3888,11 @@
       "shooter",
       "historia",
       "atmósfera"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "BioShock Infinite",
@@ -3168,7 +3908,11 @@
       "shooter",
       "historia",
       "acción"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Dishonored",
@@ -3184,7 +3928,11 @@
       "sigilo",
       "acción",
       "primera persona"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Dishonored 2",
@@ -3200,7 +3948,11 @@
       "sigilo",
       "acción",
       "primera persona"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Prey (2017)",
@@ -3216,7 +3968,11 @@
       "ciencia ficción",
       "shooter",
       "inmersivo"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "The Elder Scrolls V: Skyrim",
@@ -3232,7 +3988,11 @@
       "rpg",
       "mundo abierto",
       "fantasía"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Fallout 4",
@@ -3248,7 +4008,11 @@
       "rpg",
       "mundo abierto",
       "post-apocalíptico"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Mass Effect Legendary Edition",
@@ -3264,7 +4028,11 @@
       "rpg",
       "ciencia ficción",
       "historia"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Dragon Age: Inquisition",
@@ -3280,7 +4048,11 @@
       "rpg",
       "fantasía",
       "historia"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Baldur's Gate 3",
@@ -3296,7 +4068,11 @@
       "rpg",
       "historia",
       "turnos"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Disco Elysium",
@@ -3312,7 +4088,11 @@
       "rpg",
       "narrativo",
       "misterio"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Persona 5 Royal",
@@ -3328,7 +4108,11 @@
       "rpg",
       "anime",
       "turnos"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Final Fantasy VII Remake",
@@ -3344,7 +4128,11 @@
       "rpg",
       "acción",
       "historia"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Final Fantasy VII Rebirth",
@@ -3360,7 +4148,11 @@
       "rpg",
       "acción",
       "mundo abierto"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "NieR: Automata",
@@ -3376,7 +4168,11 @@
       "acción",
       "rpg",
       "historia"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "NieR Replicant",
@@ -3392,7 +4188,11 @@
       "acción",
       "rpg",
       "historia"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Sekiro: Shadows Die Twice",
@@ -3408,7 +4208,11 @@
       "acción",
       "difícil",
       "souls-like"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Elden Ring",
@@ -3426,7 +4230,11 @@
       "mundo abierto",
       "difícil",
       "rpg"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Dark Souls III",
@@ -3444,7 +4252,11 @@
       "difícil",
       "rpg",
       "fantasía"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Bloodborne",
@@ -3462,7 +4274,11 @@
       "difícil",
       "acción",
       "terror"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Star Wars Jedi: Fallen Order",
@@ -3478,7 +4294,11 @@
       "acción",
       "aventura",
       "ciencia ficción"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Star Wars Jedi: Survivor",
@@ -3494,7 +4314,11 @@
       "acción",
       "aventura",
       "ciencia ficción"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Tomb Raider (2013)",
@@ -3510,7 +4334,11 @@
       "aventura",
       "acción",
       "exploración"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Rise of the Tomb Raider",
@@ -3526,7 +4354,11 @@
       "aventura",
       "acción",
       "exploración"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Shadow of the Tomb Raider",
@@ -3542,7 +4374,11 @@
       "aventura",
       "acción",
       "exploración"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Assassin's Creed II",
@@ -3558,7 +4394,11 @@
       "acción",
       "mundo abierto",
       "historia"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Assassin's Creed IV: Black Flag",
@@ -3574,7 +4414,11 @@
       "acción",
       "mundo abierto",
       "piratas"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Assassin's Creed Odyssey",
@@ -3590,7 +4434,11 @@
       "rpg",
       "mundo abierto",
       "acción"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Assassin's Creed Valhalla",
@@ -3606,7 +4454,11 @@
       "rpg",
       "mundo abierto",
       "vikingos"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Far Cry 3",
@@ -3622,7 +4474,11 @@
       "shooter",
       "mundo abierto",
       "acción"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Far Cry 5",
@@ -3639,7 +4495,11 @@
       "shooter",
       "mundo abierto",
       "acción"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Far Cry 6",
@@ -3656,7 +4516,11 @@
       "shooter",
       "mundo abierto",
       "acción"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Metro Exodus",
@@ -3672,7 +4536,11 @@
       "shooter",
       "post-apocalíptico",
       "historia"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Metro Last Light",
@@ -3688,7 +4556,11 @@
       "shooter",
       "post-apocalíptico",
       "atmósfera"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Metro 2033",
@@ -3704,7 +4576,11 @@
       "shooter",
       "post-apocalíptico",
       "atmósfera"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Wolfenstein: The New Order",
@@ -3720,7 +4596,11 @@
       "shooter",
       "acción",
       "historia"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Wolfenstein II: The New Colossus",
@@ -3736,7 +4616,11 @@
       "shooter",
       "acción",
       "historia"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "DOOM Eternal",
@@ -3754,7 +4638,11 @@
       "shooter",
       "acción",
       "gore"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "DOOM (2016)",
@@ -3772,7 +4660,11 @@
       "shooter",
       "acción",
       "gore"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Dead Space Remake",
@@ -3788,7 +4680,11 @@
       "terror",
       "acción",
       "ciencia ficción"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Alien: Isolation",
@@ -3804,7 +4700,11 @@
       "terror",
       "sigilo",
       "supervivencia"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "SOMA",
@@ -3820,7 +4720,11 @@
       "terror",
       "historia",
       "ciencia ficción"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Amnesia: The Dark Descent",
@@ -3836,7 +4740,11 @@
       "terror",
       "puzzles",
       "psicológico"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Outlast",
@@ -3852,7 +4760,11 @@
       "terror",
       "supervivencia",
       "psicológico"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "The Evil Within",
@@ -3868,7 +4780,11 @@
       "terror",
       "acción",
       "supervivencia"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "The Evil Within 2",
@@ -3884,7 +4800,11 @@
       "terror",
       "acción",
       "supervivencia"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Spec Ops: The Line",
@@ -3900,7 +4820,11 @@
       "shooter",
       "historia",
       "acción"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "L.A. Noire",
@@ -3916,7 +4840,11 @@
       "detectives",
       "mundo abierto",
       "historia"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Mafia: Definitive Edition",
@@ -3932,7 +4860,11 @@
       "acción",
       "historia",
       "mundo abierto"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Mafia II",
@@ -3948,7 +4880,11 @@
       "acción",
       "historia",
       "mundo abierto"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Kingdom Come: Deliverance",
@@ -3964,7 +4900,11 @@
       "rpg",
       "realista",
       "medieval"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Mount & Blade II: Bannerlord",
@@ -3982,7 +4922,11 @@
       "rpg",
       "estrategia",
       "medieval"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Outer Wilds",
@@ -3998,7 +4942,11 @@
       "exploración",
       "espacio",
       "misterio"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "The Outer Worlds",
@@ -4014,7 +4962,11 @@
       "rpg",
       "ciencia ficción",
       "humor"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Stray",
@@ -4030,7 +4982,11 @@
       "aventura",
       "gatos",
       "cyberpunk"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Kena: Bridge of Spirits",
@@ -4046,7 +5002,11 @@
       "acción",
       "aventura",
       "fantasía"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Ori and the Blind Forest",
@@ -4062,7 +5022,11 @@
       "plataformas",
       "metroidvania",
       "hermoso"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Ori and the Will of the Wisps",
@@ -4078,7 +5042,11 @@
       "plataformas",
       "metroidvania",
       "hermoso"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Hades",
@@ -4094,7 +5062,11 @@
       "roguelike",
       "acción",
       "mitología"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Celeste",
@@ -4110,7 +5082,11 @@
       "plataformas",
       "indie",
       "difícil"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Undertale",
@@ -4126,7 +5102,11 @@
       "rpg",
       "indie",
       "historia"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Deltarune",
@@ -4142,7 +5122,11 @@
       "rpg",
       "indie",
       "humor"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "INSIDE",
@@ -4158,7 +5142,11 @@
       "puzzles",
       "plataformas",
       "atmósfera"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "LIMBO",
@@ -4174,7 +5162,11 @@
       "puzzles",
       "plataformas",
       "atmósfera"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Little Nightmares",
@@ -4190,7 +5182,11 @@
       "terror",
       "plataformas",
       "puzzles"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Little Nightmares II",
@@ -4206,51 +5202,124 @@
       "terror",
       "plataformas",
       "puzzles"
-    ]
+    ],
+    "plataforma": [
+      "Steam"
+    ],
+    "precio": "paid"
   },
   {
     "nombre": "Stumble Guys",
-    "categoria_web": ["party", "multiplayer", "matchmaking"],
-    "jugadores": ["+5"],
+    "categoria_web": [
+      "party",
+      "multiplayer",
+      "matchmaking"
+    ],
+    "jugadores": [
+      "+5"
+    ],
     "precio": "free_to_play",
     "dificultad": "baja",
     "requisitos": "bajos",
-    "tags": ["party", "competitivo", "divertido", "parkour"]
+    "tags": [
+      "party",
+      "competitivo",
+      "divertido",
+      "parkour"
+    ],
+    "plataforma": [
+      "Epic",
+      "Steam"
+    ]
   },
   {
     "nombre": "Fall Guys",
-    "categoria_web": ["party", "multiplayer", "matchmaking"],
-    "jugadores": ["+5"],
+    "categoria_web": [
+      "party",
+      "multiplayer",
+      "matchmaking"
+    ],
+    "jugadores": [
+      "+5"
+    ],
     "precio": "free_to_play",
     "dificultad": "baja",
     "requisitos": "medios",
-    "tags": ["party", "competitivo", "divertido", "catico"]
+    "tags": [
+      "party",
+      "competitivo",
+      "divertido",
+      "catico"
+    ],
+    "plataforma": [
+      "Epic",
+      "Steam"
+    ]
   },
   {
     "nombre": "8Bit Fiesta",
-    "categoria_web": ["party", "multiplayer"],
-    "jugadores": ["+5"],
+    "categoria_web": [
+      "party",
+      "multiplayer"
+    ],
+    "jugadores": [
+      "+5"
+    ],
     "precio": "free_to_play",
     "dificultad": "baja",
     "requisitos": "bajos",
-    "tags": ["party", "pixel art", "minijuegos"]
+    "tags": [
+      "party",
+      "pixel art",
+      "minijuegos"
+    ],
+    "plataforma": [
+      "Epic",
+      "Steam"
+    ]
   },
   {
     "nombre": "Play Together",
-    "categoria_web": ["party", "multiplayer"],
-    "jugadores": ["+5"],
+    "categoria_web": [
+      "party",
+      "multiplayer"
+    ],
+    "jugadores": [
+      "+5"
+    ],
     "precio": "free_to_play",
     "dificultad": "baja",
     "requisitos": "bajos",
-    "tags": ["social", "mundo abierto", "minijuegos"]
+    "tags": [
+      "social",
+      "mundo abierto",
+      "minijuegos"
+    ],
+    "plataforma": [
+      "Epic",
+      "Steam"
+    ]
   },
   {
     "nombre": "BapBap",
-    "categoria_web": ["party", "multiplayer", "matchmaking"],
-    "jugadores": ["+5"],
+    "categoria_web": [
+      "party",
+      "multiplayer",
+      "matchmaking"
+    ],
+    "jugadores": [
+      "+5"
+    ],
     "precio": "free_to_play",
     "dificultad": "baja",
     "requisitos": "bajos",
-    "tags": ["moba", "battle royale", "competitivo"]
+    "tags": [
+      "moba",
+      "battle royale",
+      "competitivo"
+    ],
+    "plataforma": [
+      "Epic"
+    ]
   }
 ]
