@@ -12,7 +12,8 @@ export async function GET(request: NextRequest) {
   const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || `${proto}://${host}`;
   
   try {
-    const steamId = await verifySteamAuth(url) as string;
+    const returnTo = `${baseUrl}/auth/steam/return`;
+    const steamId = await verifySteamAuth(url, returnTo, baseUrl) as string;
     const apiKey = process.env.STEAM_API_KEY;
 
     if (!apiKey) {

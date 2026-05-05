@@ -15,13 +15,13 @@ export function getSteamAuthUrl(returnUrl: string, realm: string) {
   return `${STEAM_OPENID_URL}?${params.toString()}`;
 }
 
-export async function verifySteamAuth(reqUrl: string) {
+export async function verifySteamAuth(reqUrl: string, returnUrl: string, realm: string) {
   const urlObj = new URL(reqUrl);
   const params = Object.fromEntries(urlObj.searchParams.entries());
 
   const relyingParty = new RelyingParty(
-    reqUrl.split('?')[0], // return_to
-    urlObj.origin, // realm
+    returnUrl,
+    realm,
     true, // stateless
     false, // strict
     [] // extensions
