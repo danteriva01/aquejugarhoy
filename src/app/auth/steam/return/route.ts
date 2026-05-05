@@ -28,9 +28,10 @@ export async function GET(request: NextRequest) {
         avatar: player.avatarfull,
         favoritos: [],
         historial: [],
+        juegosSteam: [],
+        lastSync: null,
         perfil: { tipo: null },
         preferences: {},
-        history: [] // Legacy field just in case
       };
     } else {
       // Ensure new fields exist for legacy users
