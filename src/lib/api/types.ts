@@ -30,6 +30,8 @@ export interface Game {
   // Custom field populated locally from CheapShark
   priceInfo?: GamePriceInfo;
   steamAppId?: string; // AppID used for fetching Steam assets like thumbnails
+  description?: string;
+  description_raw?: string;
 }
 
 export interface GamePriceInfo {
