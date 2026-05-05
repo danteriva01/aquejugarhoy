@@ -115,9 +115,9 @@ function ResultsGameCard({ game, index, withWhom }: ResultsGameCardProps) {
             </div>
           )}
 
-          {game.steamAppId || game.background_image ? (
+          {(game.steamAppId || game.background_image) ? (
             <Image
-              src={game.steamAppId ? `https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/${game.steamAppId}/header.jpg` : (game.background_image as string)}
+              src={game.steamAppId ? `https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/${game.steamAppId}/header.jpg` : (game.background_image ?? '')}
               alt={game.name}
               fill
               sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
