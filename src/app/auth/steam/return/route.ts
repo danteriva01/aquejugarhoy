@@ -7,6 +7,9 @@ import { NextRequest, NextResponse } from 'next/server';
 
 export async function GET(request: NextRequest) {
   const url = request.url;
+  const host = request.headers.get('x-forwarded-host') || request.headers.get('host') || 'localhost:3000';
+  const proto = request.headers.get('x-forwarded-proto') || 'http';
+  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || `${proto}://${host}`;
   
   try {
     const steamId = await verifySteamAuth(url) as string;
@@ -66,9 +69,9 @@ export async function GET(request: NextRequest) {
     await session.save();
 
     // Redirect to home or explorer
-    return NextResponse.redirect(new URL('/', request.url));
+    return NextResponse.redirect(new URL('/', baseUrl));
   } catch (error) {
     console.error('Steam Auth Error:', error);
-    return NextResponse.redirect(new URL('/?error=auth_failed', request.url));
+    return NextResponse.redirect(new URL('/?error=auth_failed', baseUrl));
   }
 }

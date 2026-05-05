@@ -2,12 +2,11 @@ import { getSteamAuthUrl } from '@/lib/auth/steam';
 import { NextRequest, NextResponse } from 'next/server';
 
 export async function GET(request: NextRequest) {
-  // Priority: Environment Variable -> Header -> Fallback
-  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL 
-    || (request.headers.get('x-forwarded-proto') && request.headers.get('host') 
-        ? `${request.headers.get('x-forwarded-proto')}://${request.headers.get('host')}` 
-        : null)
-    || (request.headers.get('host') ? `http://${request.headers.get('host')}` : 'http://localhost:3000');
+  const host = request.headers.get('x-forwarded-host') || request.headers.get('host') || 'localhost:3000';
+  const proto = request.headers.get('x-forwarded-proto') || 'http';
+  
+  // Use env var if available, otherwise reconstruct from headers
+  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || `${proto}://${host}`;
   
   const returnTo = `${baseUrl}/auth/steam/return`;
   const realm = baseUrl;
