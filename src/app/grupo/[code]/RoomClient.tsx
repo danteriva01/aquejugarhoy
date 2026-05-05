@@ -255,7 +255,7 @@ export default function RoomClient({ code }: RoomClientProps) {
               <div key={game.id} className="group relative bg-bg-card border border-border rounded-3xl overflow-hidden hover:border-accent transition-all duration-300 flex flex-col h-full shadow-lg">
                 <div className="relative aspect-[16/9] overflow-hidden">
                   <Image 
-                    src={game.steamAppId ? `https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/${game.steamAppId}/header.jpg` : game.background_image} 
+                    src={game.steamAppId ? `https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/${game.steamAppId}/header.jpg` : (game.background_image ?? '')} 
                     alt={game.name} 
                     fill 
                     className="object-cover group-hover:scale-105 transition-transform duration-500"
@@ -329,7 +329,7 @@ export default function RoomClient({ code }: RoomClientProps) {
         <div className="bg-bg-card border-4 border-accent rounded-[32px] overflow-hidden shadow-2xl animate-scale-in">
           <div className="relative aspect-video">
             <Image 
-              src={winner.steamAppId ? `https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/${winner.steamAppId}/header.jpg` : winner.background_image} 
+              src={winner.steamAppId ? `https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/${winner.steamAppId}/header.jpg` : (winner.background_image ?? '')} 
               alt={winner.name} 
               fill 
               className="object-cover"
