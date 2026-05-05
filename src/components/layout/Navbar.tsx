@@ -10,7 +10,6 @@ import SteamLoginButton from '@/components/auth/SteamLoginButton';
 export default function Navbar() {
   const [isScrolled, setIsScrolled] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
-  const [searchQuery, setSearchQuery] = useState('');
   const router = useRouter();
 
   useEffect(() => {
@@ -19,14 +18,6 @@ export default function Navbar() {
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
-  const handleSearch = (e: React.FormEvent) => {
-    e.preventDefault();
-    if (searchQuery.trim()) {
-      router.push(`/explorar?search=${encodeURIComponent(searchQuery.trim())}`);
-      setSearchQuery('');
-      setIsMobileMenuOpen(false);
-    }
-  };
 
   return (
     <nav
@@ -81,19 +72,8 @@ export default function Navbar() {
             <DonationButton variant="compact" />
           </div>
 
-          {/* Desktop Search + Surprise */}
+          {/* Desktop Actions */}
           <div className="hidden md:flex items-center gap-3">
-            <form onSubmit={handleSearch} className="relative">
-              <Search className="absolute left-2.5 top-1/2 -translate-y-1/2 w-3.5 h-3.5 text-text-muted" />
-              <input
-                type="text"
-                value={searchQuery}
-                onChange={(e) => setSearchQuery(e.target.value)}
-                placeholder="Buscar juegos..."
-                className="w-52 lg:w-64 pl-8 pr-3 py-1.5 bg-bg-secondary border border-border rounded-md text-sm text-text-primary placeholder-text-muted focus:outline-none focus:border-accent/50 transition-colors"
-                id="navbar-search"
-              />
-            </form>
             <Link
               href="/explorar?random=true"
               className="flex items-center gap-1.5 px-3 py-1.5 border border-border rounded-md text-text-muted text-sm hover:text-text-primary hover:border-border-hover transition-colors"
@@ -120,17 +100,6 @@ export default function Navbar() {
       {isMobileMenuOpen && (
         <div className="md:hidden bg-bg-secondary border-t border-border animate-fade-in">
           <div className="px-4 py-3 space-y-1">
-            <form onSubmit={handleSearch} className="relative mb-2">
-              <Search className="absolute left-2.5 top-1/2 -translate-y-1/2 w-3.5 h-3.5 text-text-muted" />
-              <input
-                type="text"
-                value={searchQuery}
-                onChange={(e) => setSearchQuery(e.target.value)}
-                placeholder="Buscar juegos..."
-                className="w-full pl-8 pr-3 py-2 bg-bg-input border border-border rounded-md text-sm text-text-primary placeholder-text-muted focus:outline-none focus:border-accent/50"
-                id="mobile-search"
-              />
-            </form>
             <Link href="/descubrir" onClick={() => setIsMobileMenuOpen(false)} className="block px-3 py-2 text-text-muted hover:text-text-primary text-sm rounded-md hover:bg-bg-card transition-colors">
               Descubrir
             </Link>
