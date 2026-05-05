@@ -4207,5 +4207,50 @@
       "plataformas",
       "puzzles"
     ]
+  },
+  {
+    "nombre": "Stumble Guys",
+    "categoria_web": ["party", "multiplayer", "matchmaking"],
+    "jugadores": ["+5"],
+    "precio": "free_to_play",
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": ["party", "competitivo", "divertido", "parkour"]
+  },
+  {
+    "nombre": "Fall Guys",
+    "categoria_web": ["party", "multiplayer", "matchmaking"],
+    "jugadores": ["+5"],
+    "precio": "free_to_play",
+    "dificultad": "baja",
+    "requisitos": "medios",
+    "tags": ["party", "competitivo", "divertido", "catico"]
+  },
+  {
+    "nombre": "8Bit Fiesta",
+    "categoria_web": ["party", "multiplayer"],
+    "jugadores": ["+5"],
+    "precio": "free_to_play",
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": ["party", "pixel art", "minijuegos"]
+  },
+  {
+    "nombre": "Play Together",
+    "categoria_web": ["party", "multiplayer"],
+    "jugadores": ["+5"],
+    "precio": "free_to_play",
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": ["social", "mundo abierto", "minijuegos"]
+  },
+  {
+    "nombre": "BapBap",
+    "categoria_web": ["party", "multiplayer", "matchmaking"],
+    "jugadores": ["+5"],
+    "precio": "free_to_play",
+    "dificultad": "baja",
+    "requisitos": "bajos",
+    "tags": ["moba", "battle royale", "competitivo"]
   }
 ]

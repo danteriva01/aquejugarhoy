@@ -357,10 +357,10 @@ export default function ExplorerResults({ games, contextLabel, withWhom, totalGa
         <div className="text-center py-20 bg-bg-card border border-border border-dashed rounded-xl">
           <Gamepad2 className="w-10 h-10 text-text-muted mx-auto mb-4" />
           <h3 className="font-heading text-lg font-semibold text-text-primary mb-2">
-            No encontramos juegos para esta combinación
+            No encontramos resultados exactos
           </h3>
           <p className="text-text-muted text-sm mb-6 max-w-md mx-auto">
-            Probá ajustando tus filtros para ver más opciones.
+            Pero no te preocupes, estos se acercan a lo que buscás. Probá ajustando los filtros o volviendo a empezar para ver otras opciones.
           </p>
           <Link
             href="/"

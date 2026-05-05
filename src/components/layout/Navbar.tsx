@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import { useState, useEffect } from 'react';
-import { Search, Menu, X, Gamepad2, Compass, Shuffle } from 'lucide-react';
+import { Search, Menu, X, Gamepad2, Compass, Shuffle, UsersRound } from 'lucide-react';
 import { useRouter } from 'next/navigation';
 import DonationButton from '@/components/ui/DonationButton';
 import SteamLoginButton from '@/components/auth/SteamLoginButton';
@@ -54,6 +54,14 @@ export default function Navbar() {
               id="nav-descubrir"
             >
               Descubrir
+            </Link>
+            <Link
+              href="/grupo"
+              className="flex items-center gap-1.5 text-accent-light hover:text-accent transition-colors text-sm font-medium"
+              id="nav-grupo"
+            >
+              <UsersRound className="w-3.5 h-3.5" />
+              Modo Grupo
             </Link>
             <Link
               href="/explorar"
@@ -125,6 +133,9 @@ export default function Navbar() {
             </form>
             <Link href="/descubrir" onClick={() => setIsMobileMenuOpen(false)} className="block px-3 py-2 text-text-muted hover:text-text-primary text-sm rounded-md hover:bg-bg-card transition-colors">
               Descubrir
+            </Link>
+            <Link href="/grupo" onClick={() => setIsMobileMenuOpen(false)} className="flex items-center gap-2 px-3 py-2 text-accent-light hover:text-accent text-sm rounded-md hover:bg-bg-card transition-colors font-medium">
+              <UsersRound className="w-4 h-4" /> Modo Grupo
             </Link>
             <Link href="/explorar" onClick={() => setIsMobileMenuOpen(false)} className="block px-3 py-2 text-text-muted hover:text-text-primary text-sm rounded-md hover:bg-bg-card transition-colors">
               Explorar

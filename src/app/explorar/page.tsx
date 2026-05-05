@@ -151,7 +151,24 @@ export default async function ExplorerPage({ searchParams }: ExplorerPageProps) 
       ownedSteamAppIds
     };
 
-    const scoredResults = sortGamesByScore(enrichedResults, userContext);
+    let scoredResults = sortGamesByScore(enrichedResults, userContext);
+    
+    // ===== RELAXED FILTERS LOGIC =====
+    // If no results, try relaxing the budget (mixed)
+    if (scoredResults.length === 0 && userContext.budget === 'free') {
+      const relaxedContext = { ...userContext, budget: 'mixed' };
+      scoredResults = sortGamesByScore(enrichedResults, relaxedContext);
+      // Mark that we relaxed the budget
+      (userContext as any)._isRelaxedBudget = true;
+    }
+
+    // If still no results, try relaxing the player count
+    if (scoredResults.length === 0 && userContext.playerCount === '5+') {
+      const relaxedContext = { ...userContext, budget: 'mixed', playerCount: undefined };
+      scoredResults = sortGamesByScore(enrichedResults, relaxedContext);
+      // Mark that we relaxed the player count
+      (userContext as any)._isRelaxedPlayers = true;
+    }
     
     // Pagination logic
     const currentPage = params.page ? parseInt(params.page) : 1;
@@ -160,7 +177,12 @@ export default async function ExplorerPage({ searchParams }: ExplorerPageProps) 
     const startIndex = (currentPage - 1) * pageSize;
     
     const topResults = scoredResults.slice(startIndex, startIndex + pageSize);
-    const contextLabel = getContextLabel(userContext);
+    let contextLabel = getContextLabel(userContext);
+
+    // Append relaxation notes to label
+    if ((userContext as any)._isRelaxedBudget || (userContext as any)._isRelaxedPlayers) {
+      contextLabel += ' (Filtros flexibilizados)';
+    }
 
     // Get videos relevant to user's context
     const relevantVideos = getRelevantVideos(CURATED_VIDEOS, {

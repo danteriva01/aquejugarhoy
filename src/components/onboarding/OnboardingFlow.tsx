@@ -23,8 +23,8 @@ interface StepOption {
 
 const WITH_WHOM_OPTIONS: StepOption[] = [
   { id: 'solo', label: 'Solo', sublabel: 'Un jugador', icon: <User className="w-6 h-6" /> },
-  { id: 'pareja', label: 'En pareja', sublabel: '2 jugadores · Cooperativo', icon: <Heart className="w-6 h-6" /> },
   { id: 'amigos', label: 'Con amigos', sublabel: 'Grupo', icon: <UsersRound className="w-6 h-6" /> },
+  { id: 'pareja', label: 'En pareja', sublabel: '2 jugadores · Cooperativo', icon: <Heart className="w-6 h-6" /> },
 ];
 
 // Solo sub-options
@@ -330,14 +330,25 @@ export default function OnboardingFlow() {
         )}
       </div>
 
-      {/* Skip links */}
-      <div className="mt-8 flex flex-col items-center gap-3">
-        <button
-          onClick={() => router.push('/descubrir')}
-          className="text-text-muted text-xs hover:text-text-secondary transition-colors underline underline-offset-4"
-        >
-          Saltar e ir a explorar
-        </button>
+      {/* Skip links & Modo Grupo */}
+      <div className="mt-8 flex flex-col items-center gap-4 w-full max-w-sm">
+        {currentStepKey === 'withWhom' && (
+          <div className="w-full animate-fade-in" style={{ animationDelay: '300ms' }}>
+            <div className="flex items-center gap-2 mb-3 justify-center">
+              <div className="h-px bg-border flex-1" />
+              <span className="text-text-muted text-[10px] uppercase tracking-widest font-bold">¿No se deciden?</span>
+              <div className="h-px bg-border flex-1" />
+            </div>
+            <button
+              onClick={() => router.push('/grupo')}
+              className="w-full flex items-center justify-center gap-2.5 px-5 py-3 bg-accent/10 hover:bg-accent/15 border border-accent/20 rounded-xl text-accent-light text-sm font-semibold transition-all hover:scale-[1.02] active:scale-[0.98]"
+            >
+              <UsersRound className="w-4 h-4" />
+              Probar Modo Grupo Colaborativo
+            </button>
+          </div>
+        )}
+
         <button
           onClick={() => {
             const params = new URLSearchParams({ platforms: '4', ordering: '-rating' });
@@ -346,22 +357,10 @@ export default function OnboardingFlow() {
             params.set('page_size', '1');
             router.push(`/explorar?${params.toString()}`);
           }}
-          className="flex items-center gap-1.5 text-accent-light text-sm hover:text-accent transition-colors"
+          className="flex items-center gap-1.5 text-text-muted text-sm hover:text-text-secondary transition-colors"
         >
           <ShuffleIcon className="w-3.5 h-3.5" />
-          Sorpréndeme
-        </button>
-      </div>
-
-      {/* Modo Grupo Link */}
-      <div className="mt-12 pt-6 border-t border-border w-full max-w-sm mx-auto text-center">
-        <p className="text-text-muted text-xs mb-3">¿No se deciden a qué jugar?</p>
-        <button
-          onClick={() => router.push('/grupo')}
-          className="w-full flex items-center justify-center gap-2 px-4 py-2.5 bg-bg-secondary hover:bg-bg-tertiary border border-border rounded-lg text-text-primary text-sm font-medium transition-colors"
-        >
-          <UsersRound className="w-4 h-4 text-accent" />
-          Probar Modo Grupo Colaborativo
+          Sorpréndeme con algo aleatorio
         </button>
       </div>
     </div>

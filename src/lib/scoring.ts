@@ -61,6 +61,10 @@ const KNOWN_GAMES: Record<string, GameProfile> = {
   // --- Party ---
   'among-us':             { difficulty: 'low',  style: 'chaotic',     requirements: 'low',  maxPlayers: 15 },
   'fall-guys':            { difficulty: 'low',  style: 'chaotic',     requirements: 'mid',  maxPlayers: 60 },
+  'stumble-guys':         { difficulty: 'low',  style: 'chaotic',     requirements: 'low',  maxPlayers: 32 },
+  '8bit-fiesta':          { difficulty: 'low',  style: 'chaotic',     requirements: 'low',  maxPlayers: 8 },
+  'play-together':        { difficulty: 'low',  style: 'relaxed',     requirements: 'low',  maxPlayers: 50 },
+  'bapbap':               { difficulty: 'mid',  style: 'competitive', requirements: 'low',  maxPlayers: 30 },
   'pummel-party':         { difficulty: 'low',  style: 'chaotic',     requirements: 'low',  maxPlayers: 8 },
   'pico-park':            { difficulty: 'low',  style: 'chaotic',     requirements: 'low',  maxPlayers: 8 },
   'worms-w-m-d':          { difficulty: 'low',  style: 'chaotic',     requirements: 'low',  maxPlayers: 6 },
@@ -309,8 +313,11 @@ export function calculateGameScore(game: Game, context: UserContext): { score: n
       }
 
       // 3. Affinity for truly large groups
-      if (tags.includes('massively-multiplayer')) score += 20;
-      if (profile.maxPlayers && profile.maxPlayers >= 8) score += 15;
+      if (tags.includes('massively-multiplayer') || genres.includes('massively-multiplayer')) score += 30;
+      if (profile.maxPlayers && profile.maxPlayers >= 8) score += 20;
+      if (context.gameStyle === 'party' && (tags.includes('party-game') || profile.style === 'chaotic')) {
+        score += 25; reasons.push('Ideal para grupos grandes');
+      }
       
       // 4. Penalize games known for max 4 players but not in KNOWN_GAMES (heuristic)
       // Most local-co-op only games are 4 players max
